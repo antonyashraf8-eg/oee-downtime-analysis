@@ -1,0 +1,2303 @@
+date,shift,line,reason,category_5M1E,duration_min
+2026-07-01,Morning,Line 1,High temperature,Environment,11.9
+2026-07-01,Morning,Line 1,Tool wear,Machine,5.9
+2026-07-01,Morning,Line 1,High temperature,Environment,11.4
+2026-07-01,Morning,Line 1,Operator absence,Man,7.9
+2026-07-01,Evening,Line 1,Tool wear,Machine,18.4
+2026-07-01,Evening,Line 1,Tool wear,Machine,17.2
+2026-07-01,Evening,Line 1,High temperature,Environment,7.1
+2026-07-01,Evening,Line 1,Operator error,Man,21.5
+2026-07-01,Night,Line 1,Inspection delay,Measurement,9.9
+2026-07-01,Night,Line 1,Material quality issue,Material,27.6
+2026-07-01,Night,Line 1,Material shortage,Material,21.9
+2026-07-01,Morning,Line 2,Tool wear,Machine,5.9
+2026-07-01,Evening,Line 2,Equipment breakdown,Machine,21.6
+2026-07-01,Evening,Line 2,Operator error,Man,3.0
+2026-07-01,Night,Line 2,Operator error,Man,14.0
+2026-07-01,Night,Line 2,Equipment breakdown,Machine,23.2
+2026-07-01,Night,Line 2,Operator error,Man,6.8
+2026-07-01,Morning,Line 3,Material shortage,Material,5.1
+2026-07-01,Morning,Line 3,High temperature,Environment,14.5
+2026-07-01,Evening,Line 3,Equipment breakdown,Machine,24.1
+2026-07-01,Evening,Line 3,Equipment breakdown,Machine,43.6
+2026-07-01,Night,Line 3,Equipment breakdown,Machine,36.3
+2026-07-01,Night,Line 3,Operator absence,Man,29.9
+2026-07-01,Night,Line 3,Equipment breakdown,Machine,10.5
+2026-07-01,Night,Line 3,Power fluctuation,Environment,10.3
+2026-07-01,Morning,Line 4,Operator error,Man,4.1
+2026-07-01,Morning,Line 4,Material shortage,Material,10.3
+2026-07-01,Night,Line 4,Operator error,Man,37.2
+2026-07-01,Night,Line 4,Inspection delay,Measurement,3.8
+2026-07-01,Evening,Line 5,Calibration,Measurement,8.3
+2026-07-01,Evening,Line 5,Tool wear,Machine,34.0
+2026-07-01,Evening,Line 5,High temperature,Environment,3.0
+2026-07-01,Evening,Line 5,Inspection delay,Measurement,7.2
+2026-07-01,Evening,Line 5,Operator error,Man,3.6
+2026-07-02,Morning,Line 1,Operator error,Man,4.8
+2026-07-02,Evening,Line 1,Tool wear,Machine,17.9
+2026-07-02,Night,Line 1,Operator error,Man,11.4
+2026-07-02,Night,Line 1,Tool wear,Machine,14.8
+2026-07-02,Night,Line 1,Operator error,Man,4.7
+2026-07-02,Morning,Line 2,Changeover / setup,Method,7.0
+2026-07-02,Morning,Line 2,Changeover / setup,Method,11.8
+2026-07-02,Evening,Line 2,Material shortage,Material,7.7
+2026-07-02,Morning,Line 3,Equipment breakdown,Machine,8.5
+2026-07-02,Evening,Line 3,Operator absence,Man,16.7
+2026-07-02,Evening,Line 3,Equipment breakdown,Machine,29.3
+2026-07-02,Evening,Line 3,Operator error,Man,13.3
+2026-07-02,Night,Line 3,Inspection delay,Measurement,11.6
+2026-07-02,Morning,Line 4,Operator error,Man,11.2
+2026-07-02,Evening,Line 4,Operator absence,Man,30.5
+2026-07-02,Night,Line 4,Operator error,Man,30.5
+2026-07-02,Night,Line 4,Inspection delay,Measurement,6.6
+2026-07-02,Morning,Line 5,Operator error,Man,17.0
+2026-07-02,Evening,Line 5,Operator error,Man,5.7
+2026-07-02,Evening,Line 5,Material shortage,Material,45.6
+2026-07-02,Evening,Line 5,Material quality issue,Material,18.8
+2026-07-02,Evening,Line 5,Inspection delay,Measurement,23.7
+2026-07-02,Evening,Line 5,High temperature,Environment,16.6
+2026-07-02,Evening,Line 5,Equipment breakdown,Machine,41.6
+2026-07-02,Night,Line 5,Material quality issue,Material,13.4
+2026-07-02,Night,Line 5,Material shortage,Material,41.5
+2026-07-03,Morning,Line 1,High temperature,Environment,19.7
+2026-07-03,Morning,Line 1,Tool wear,Machine,51.3
+2026-07-03,Morning,Line 1,Tool wear,Machine,35.4
+2026-07-03,Evening,Line 1,Operator absence,Man,23.0
+2026-07-03,Morning,Line 2,Power fluctuation,Environment,20.7
+2026-07-03,Evening,Line 2,Power fluctuation,Environment,8.0
+2026-07-03,Night,Line 2,Material shortage,Material,51.2
+2026-07-03,Morning,Line 3,Operator error,Man,14.1
+2026-07-03,Morning,Line 3,Calibration,Measurement,22.2
+2026-07-03,Morning,Line 3,Equipment breakdown,Machine,12.0
+2026-07-03,Morning,Line 3,Inspection delay,Measurement,7.2
+2026-07-03,Evening,Line 3,Operator absence,Man,21.6
+2026-07-03,Evening,Line 3,Equipment breakdown,Machine,33.4
+2026-07-03,Evening,Line 3,Tool wear,Machine,6.0
+2026-07-03,Evening,Line 3,Changeover / setup,Method,23.2
+2026-07-03,Morning,Line 4,Calibration,Measurement,18.2
+2026-07-03,Morning,Line 4,Changeover / setup,Method,6.4
+2026-07-03,Morning,Line 4,Material quality issue,Material,17.7
+2026-07-03,Evening,Line 4,Equipment breakdown,Machine,66.4
+2026-07-03,Evening,Line 4,Material quality issue,Material,20.9
+2026-07-03,Night,Line 4,Operator error,Man,3.0
+2026-07-03,Night,Line 4,High temperature,Environment,46.5
+2026-07-03,Morning,Line 5,Material shortage,Material,26.9
+2026-07-03,Evening,Line 5,Material quality issue,Material,10.4
+2026-07-03,Evening,Line 5,Calibration,Measurement,14.2
+2026-07-03,Evening,Line 5,Tool wear,Machine,5.4
+2026-07-03,Night,Line 5,Tool wear,Machine,3.0
+2026-07-03,Night,Line 5,Operator error,Man,8.7
+2026-07-04,Morning,Line 1,Power fluctuation,Environment,21.2
+2026-07-04,Evening,Line 1,Operator error,Man,6.5
+2026-07-04,Evening,Line 1,Operator absence,Man,21.4
+2026-07-04,Evening,Line 2,Calibration,Measurement,4.0
+2026-07-04,Evening,Line 2,Power fluctuation,Environment,23.5
+2026-07-04,Evening,Line 2,Operator error,Man,4.8
+2026-07-04,Evening,Line 2,High temperature,Environment,3.5
+2026-07-04,Night,Line 2,High temperature,Environment,15.8
+2026-07-04,Night,Line 2,Tool wear,Machine,7.4
+2026-07-04,Night,Line 2,Power fluctuation,Environment,24.3
+2026-07-04,Morning,Line 3,Equipment breakdown,Machine,82.3
+2026-07-04,Morning,Line 3,Equipment breakdown,Machine,38.7
+2026-07-04,Morning,Line 3,Equipment breakdown,Machine,20.3
+2026-07-04,Morning,Line 3,Changeover / setup,Method,7.2
+2026-07-04,Morning,Line 3,Material shortage,Material,95.0
+2026-07-04,Morning,Line 3,Operator error,Man,7.8
+2026-07-04,Evening,Line 3,Material quality issue,Material,13.4
+2026-07-04,Evening,Line 3,High temperature,Environment,3.3
+2026-07-04,Evening,Line 3,Material shortage,Material,15.1
+2026-07-04,Evening,Line 3,Equipment breakdown,Machine,92.7
+2026-07-04,Night,Line 3,High temperature,Environment,10.7
+2026-07-04,Night,Line 3,Tool wear,Machine,11.7
+2026-07-04,Morning,Line 4,Material shortage,Material,37.4
+2026-07-04,Morning,Line 4,Power fluctuation,Environment,18.8
+2026-07-04,Morning,Line 4,Inspection delay,Measurement,7.3
+2026-07-04,Morning,Line 5,Equipment breakdown,Machine,12.5
+2026-07-04,Evening,Line 5,Material quality issue,Material,14.8
+2026-07-04,Night,Line 5,Operator absence,Man,12.5
+2026-07-05,Morning,Line 1,Material quality issue,Material,25.8
+2026-07-05,Morning,Line 1,Operator error,Man,13.9
+2026-07-05,Night,Line 1,Operator error,Man,4.0
+2026-07-05,Morning,Line 2,Power fluctuation,Environment,5.7
+2026-07-05,Morning,Line 2,High temperature,Environment,23.4
+2026-07-05,Evening,Line 2,Material quality issue,Material,23.7
+2026-07-05,Night,Line 2,Power fluctuation,Environment,34.8
+2026-07-05,Night,Line 2,Tool wear,Machine,4.6
+2026-07-05,Night,Line 2,Operator error,Man,3.0
+2026-07-05,Morning,Line 3,Operator absence,Man,6.2
+2026-07-05,Morning,Line 3,Equipment breakdown,Machine,9.8
+2026-07-05,Evening,Line 3,Operator error,Man,3.7
+2026-07-05,Evening,Line 3,Changeover / setup,Method,43.4
+2026-07-05,Evening,Line 3,Calibration,Measurement,3.6
+2026-07-05,Night,Line 3,Power fluctuation,Environment,10.2
+2026-07-05,Night,Line 3,Equipment breakdown,Machine,11.1
+2026-07-05,Morning,Line 4,Equipment breakdown,Machine,23.2
+2026-07-05,Morning,Line 4,Inspection delay,Measurement,6.4
+2026-07-05,Morning,Line 4,Inspection delay,Measurement,6.3
+2026-07-05,Morning,Line 4,Operator absence,Man,51.1
+2026-07-05,Night,Line 4,Tool wear,Machine,11.9
+2026-07-05,Night,Line 4,Material quality issue,Material,26.9
+2026-07-05,Night,Line 4,Operator error,Man,6.1
+2026-07-05,Morning,Line 5,Material shortage,Material,17.5
+2026-07-05,Evening,Line 5,Tool wear,Machine,28.8
+2026-07-05,Evening,Line 5,Tool wear,Machine,3.0
+2026-07-06,Morning,Line 1,Operator absence,Man,18.0
+2026-07-06,Evening,Line 1,Material shortage,Material,7.8
+2026-07-06,Night,Line 1,Operator error,Man,24.7
+2026-07-06,Night,Line 1,Tool wear,Machine,5.8
+2026-07-06,Night,Line 1,Inspection delay,Measurement,7.3
+2026-07-06,Morning,Line 3,Equipment breakdown,Machine,44.1
+2026-07-06,Morning,Line 3,Material shortage,Material,11.3
+2026-07-06,Evening,Line 3,Changeover / setup,Method,17.8
+2026-07-06,Evening,Line 3,Tool wear,Machine,6.6
+2026-07-06,Evening,Line 3,Equipment breakdown,Machine,25.2
+2026-07-06,Night,Line 3,High temperature,Environment,3.0
+2026-07-06,Night,Line 3,Operator error,Man,13.2
+2026-07-06,Night,Line 3,Operator absence,Man,21.3
+2026-07-06,Night,Line 3,High temperature,Environment,8.5
+2026-07-06,Morning,Line 4,Calibration,Measurement,12.8
+2026-07-06,Morning,Line 4,Operator absence,Man,15.9
+2026-07-06,Evening,Line 4,Material quality issue,Material,38.8
+2026-07-06,Evening,Line 4,Power fluctuation,Environment,5.5
+2026-07-06,Evening,Line 4,Tool wear,Machine,10.0
+2026-07-06,Night,Line 4,Changeover / setup,Method,37.5
+2026-07-06,Night,Line 4,Operator absence,Man,11.0
+2026-07-06,Night,Line 4,Operator absence,Man,16.6
+2026-07-06,Night,Line 4,Operator error,Man,17.6
+2026-07-06,Morning,Line 5,Material quality issue,Material,39.4
+2026-07-06,Morning,Line 5,Material shortage,Material,22.8
+2026-07-06,Morning,Line 5,Material quality issue,Material,39.0
+2026-07-06,Morning,Line 5,Power fluctuation,Environment,8.2
+2026-07-06,Morning,Line 5,Material shortage,Material,29.1
+2026-07-06,Morning,Line 5,Tool wear,Machine,10.7
+2026-07-06,Morning,Line 5,Material shortage,Material,4.3
+2026-07-06,Evening,Line 5,Tool wear,Machine,17.2
+2026-07-06,Evening,Line 5,Power fluctuation,Environment,10.1
+2026-07-06,Night,Line 5,Operator error,Man,9.5
+2026-07-06,Night,Line 5,Changeover / setup,Method,35.9
+2026-07-07,Morning,Line 1,Power fluctuation,Environment,7.1
+2026-07-07,Morning,Line 1,Material quality issue,Material,39.8
+2026-07-07,Evening,Line 1,Tool wear,Machine,16.2
+2026-07-07,Night,Line 1,Changeover / setup,Method,56.7
+2026-07-07,Morning,Line 2,Operator absence,Man,39.4
+2026-07-07,Evening,Line 2,Material shortage,Material,13.2
+2026-07-07,Morning,Line 3,Equipment breakdown,Machine,23.6
+2026-07-07,Morning,Line 3,Calibration,Measurement,4.8
+2026-07-07,Morning,Line 3,Inspection delay,Measurement,26.2
+2026-07-07,Morning,Line 3,Equipment breakdown,Machine,11.0
+2026-07-07,Evening,Line 3,Operator absence,Man,4.8
+2026-07-07,Evening,Line 3,Changeover / setup,Method,28.9
+2026-07-07,Evening,Line 3,Equipment breakdown,Machine,24.5
+2026-07-07,Night,Line 3,Equipment breakdown,Machine,108.2
+2026-07-07,Night,Line 3,Changeover / setup,Method,48.5
+2026-07-07,Evening,Line 4,Changeover / setup,Method,12.2
+2026-07-07,Night,Line 4,Power fluctuation,Environment,13.7
+2026-07-07,Morning,Line 5,Inspection delay,Measurement,5.3
+2026-07-07,Morning,Line 5,Operator absence,Man,17.8
+2026-07-07,Night,Line 5,Operator absence,Man,17.6
+2026-07-08,Morning,Line 1,Calibration,Measurement,6.3
+2026-07-08,Morning,Line 1,Material quality issue,Material,14.6
+2026-07-08,Evening,Line 1,Inspection delay,Measurement,7.6
+2026-07-08,Night,Line 2,Changeover / setup,Method,20.9
+2026-07-08,Night,Line 2,Calibration,Measurement,3.0
+2026-07-08,Morning,Line 3,Material shortage,Material,15.7
+2026-07-08,Morning,Line 3,Inspection delay,Measurement,4.7
+2026-07-08,Morning,Line 3,Tool wear,Machine,40.0
+2026-07-08,Morning,Line 3,Operator absence,Man,3.9
+2026-07-08,Morning,Line 3,Equipment breakdown,Machine,19.8
+2026-07-08,Evening,Line 3,Equipment breakdown,Machine,4.3
+2026-07-08,Evening,Line 3,High temperature,Environment,13.3
+2026-07-08,Night,Line 3,Equipment breakdown,Machine,20.4
+2026-07-08,Night,Line 3,High temperature,Environment,13.8
+2026-07-08,Night,Line 3,Material shortage,Material,19.1
+2026-07-08,Evening,Line 4,Material quality issue,Material,5.3
+2026-07-08,Evening,Line 4,Power fluctuation,Environment,27.5
+2026-07-08,Night,Line 4,Operator error,Man,8.8
+2026-07-08,Night,Line 4,Operator absence,Man,38.5
+2026-07-08,Night,Line 4,Inspection delay,Measurement,3.7
+2026-07-08,Night,Line 4,Operator error,Man,6.4
+2026-07-08,Morning,Line 5,Tool wear,Machine,8.3
+2026-07-08,Morning,Line 5,Operator error,Man,12.1
+2026-07-08,Morning,Line 5,Changeover / setup,Method,26.6
+2026-07-08,Evening,Line 5,Material shortage,Material,41.4
+2026-07-09,Morning,Line 1,Calibration,Measurement,19.8
+2026-07-09,Evening,Line 1,High temperature,Environment,3.4
+2026-07-09,Evening,Line 1,Operator absence,Man,21.8
+2026-07-09,Night,Line 1,Equipment breakdown,Machine,45.9
+2026-07-09,Night,Line 1,Inspection delay,Measurement,21.8
+2026-07-09,Night,Line 1,Power fluctuation,Environment,15.2
+2026-07-09,Morning,Line 2,Inspection delay,Measurement,8.6
+2026-07-09,Night,Line 2,High temperature,Environment,7.9
+2026-07-09,Night,Line 2,Operator absence,Man,25.0
+2026-07-09,Morning,Line 3,Tool wear,Machine,7.4
+2026-07-09,Morning,Line 3,Operator error,Man,3.8
+2026-07-09,Evening,Line 3,Material shortage,Material,26.6
+2026-07-09,Evening,Line 3,Material shortage,Material,3.0
+2026-07-09,Evening,Line 3,Tool wear,Machine,13.8
+2026-07-09,Night,Line 3,Operator error,Man,8.6
+2026-07-09,Night,Line 3,Operator absence,Man,37.4
+2026-07-09,Night,Line 3,Operator absence,Man,26.0
+2026-07-09,Evening,Line 4,High temperature,Environment,3.0
+2026-07-09,Night,Line 4,Material shortage,Material,36.8
+2026-07-09,Night,Line 4,Power fluctuation,Environment,15.8
+2026-07-09,Night,Line 4,Inspection delay,Measurement,3.6
+2026-07-09,Night,Line 4,High temperature,Environment,12.3
+2026-07-09,Morning,Line 5,Operator error,Man,3.0
+2026-07-10,Morning,Line 1,Operator absence,Man,19.9
+2026-07-10,Morning,Line 1,Inspection delay,Measurement,8.0
+2026-07-10,Morning,Line 1,Operator error,Man,3.0
+2026-07-10,Morning,Line 1,Operator error,Man,14.5
+2026-07-10,Evening,Line 1,Tool wear,Machine,7.0
+2026-07-10,Morning,Line 2,Equipment breakdown,Machine,66.1
+2026-07-10,Morning,Line 2,Changeover / setup,Method,20.5
+2026-07-10,Evening,Line 2,Inspection delay,Measurement,3.0
+2026-07-10,Evening,Line 2,Material shortage,Material,21.7
+2026-07-10,Evening,Line 2,Changeover / setup,Method,15.9
+2026-07-10,Night,Line 2,Calibration,Measurement,3.0
+2026-07-10,Night,Line 2,Power fluctuation,Environment,59.8
+2026-07-10,Evening,Line 3,Calibration,Measurement,3.0
+2026-07-10,Evening,Line 3,Changeover / setup,Method,9.8
+2026-07-10,Evening,Line 3,Equipment breakdown,Machine,12.6
+2026-07-10,Evening,Line 3,Operator absence,Man,9.7
+2026-07-10,Night,Line 3,Calibration,Measurement,10.3
+2026-07-10,Evening,Line 4,Tool wear,Machine,5.0
+2026-07-10,Evening,Line 4,High temperature,Environment,7.0
+2026-07-10,Night,Line 4,Tool wear,Machine,5.4
+2026-07-10,Morning,Line 5,Material shortage,Material,5.6
+2026-07-10,Morning,Line 5,Inspection delay,Measurement,9.1
+2026-07-10,Evening,Line 5,Calibration,Measurement,7.8
+2026-07-10,Evening,Line 5,Changeover / setup,Method,10.9
+2026-07-10,Night,Line 5,Changeover / setup,Method,9.4
+2026-07-10,Night,Line 5,Equipment breakdown,Machine,12.2
+2026-07-10,Night,Line 5,Tool wear,Machine,22.6
+2026-07-11,Morning,Line 1,High temperature,Environment,3.0
+2026-07-11,Morning,Line 1,Changeover / setup,Method,47.9
+2026-07-11,Evening,Line 1,Material shortage,Material,3.9
+2026-07-11,Evening,Line 1,Operator absence,Man,13.1
+2026-07-11,Evening,Line 1,Equipment breakdown,Machine,24.3
+2026-07-11,Night,Line 1,Calibration,Measurement,11.7
+2026-07-11,Night,Line 1,Power fluctuation,Environment,3.0
+2026-07-11,Morning,Line 2,Changeover / setup,Method,8.5
+2026-07-11,Morning,Line 2,Operator error,Man,8.3
+2026-07-11,Morning,Line 2,Material quality issue,Material,5.4
+2026-07-11,Morning,Line 2,Changeover / setup,Method,19.6
+2026-07-11,Morning,Line 2,Operator error,Man,26.4
+2026-07-11,Morning,Line 2,Operator absence,Man,16.8
+2026-07-11,Evening,Line 2,Material quality issue,Material,8.7
+2026-07-11,Evening,Line 2,Material quality issue,Material,24.2
+2026-07-11,Evening,Line 3,Equipment breakdown,Machine,58.2
+2026-07-11,Evening,Line 3,Calibration,Measurement,3.9
+2026-07-11,Night,Line 3,Equipment breakdown,Machine,80.9
+2026-07-11,Morning,Line 4,Equipment breakdown,Machine,19.4
+2026-07-11,Morning,Line 4,Operator absence,Man,11.5
+2026-07-11,Night,Line 4,Operator error,Man,7.7
+2026-07-11,Night,Line 4,Equipment breakdown,Machine,64.1
+2026-07-11,Night,Line 4,Operator error,Man,9.6
+2026-07-11,Morning,Line 5,High temperature,Environment,25.7
+2026-07-11,Evening,Line 5,High temperature,Environment,11.6
+2026-07-11,Night,Line 5,Operator absence,Man,17.4
+2026-07-11,Night,Line 5,Material shortage,Material,12.0
+2026-07-12,Morning,Line 1,Power fluctuation,Environment,8.2
+2026-07-12,Evening,Line 1,Operator absence,Man,29.2
+2026-07-12,Night,Line 1,Equipment breakdown,Machine,88.1
+2026-07-12,Night,Line 1,Operator absence,Man,10.4
+2026-07-12,Morning,Line 2,Tool wear,Machine,16.7
+2026-07-12,Evening,Line 2,High temperature,Environment,42.1
+2026-07-12,Evening,Line 2,Operator error,Man,13.8
+2026-07-12,Night,Line 2,Operator error,Man,31.0
+2026-07-12,Night,Line 2,Tool wear,Machine,14.1
+2026-07-12,Morning,Line 3,Power fluctuation,Environment,3.4
+2026-07-12,Morning,Line 3,Power fluctuation,Environment,16.5
+2026-07-12,Morning,Line 3,High temperature,Environment,7.2
+2026-07-12,Evening,Line 3,Tool wear,Machine,23.7
+2026-07-12,Evening,Line 3,Calibration,Measurement,6.0
+2026-07-12,Night,Line 3,Operator absence,Man,36.6
+2026-07-12,Night,Line 3,Calibration,Measurement,12.2
+2026-07-12,Morning,Line 4,Changeover / setup,Method,17.9
+2026-07-12,Evening,Line 4,Material quality issue,Material,4.5
+2026-07-12,Morning,Line 5,Inspection delay,Measurement,9.2
+2026-07-12,Morning,Line 5,Calibration,Measurement,20.3
+2026-07-12,Evening,Line 5,Changeover / setup,Method,31.6
+2026-07-13,Morning,Line 1,Operator absence,Man,13.5
+2026-07-13,Evening,Line 1,Operator absence,Man,17.6
+2026-07-13,Night,Line 1,High temperature,Environment,8.0
+2026-07-13,Night,Line 1,Inspection delay,Measurement,6.3
+2026-07-13,Morning,Line 2,Changeover / setup,Method,17.4
+2026-07-13,Night,Line 2,Tool wear,Machine,29.8
+2026-07-13,Morning,Line 3,Material quality issue,Material,11.8
+2026-07-13,Morning,Line 3,Power fluctuation,Environment,14.7
+2026-07-13,Morning,Line 3,Equipment breakdown,Machine,48.9
+2026-07-13,Evening,Line 3,Tool wear,Machine,43.8
+2026-07-13,Evening,Line 3,Tool wear,Machine,5.5
+2026-07-13,Evening,Line 3,Equipment breakdown,Machine,36.1
+2026-07-13,Night,Line 3,Operator error,Man,20.9
+2026-07-13,Night,Line 3,Power fluctuation,Environment,19.5
+2026-07-13,Night,Line 3,Operator absence,Man,29.1
+2026-07-13,Evening,Line 4,Material quality issue,Material,41.9
+2026-07-13,Evening,Line 4,Equipment breakdown,Machine,30.7
+2026-07-13,Evening,Line 4,Tool wear,Machine,9.8
+2026-07-13,Morning,Line 5,Material quality issue,Material,5.0
+2026-07-13,Morning,Line 5,Material quality issue,Material,31.5
+2026-07-13,Morning,Line 5,High temperature,Environment,5.5
+2026-07-14,Morning,Line 1,Tool wear,Machine,7.9
+2026-07-14,Morning,Line 1,Changeover / setup,Method,18.5
+2026-07-14,Evening,Line 1,Equipment breakdown,Machine,43.9
+2026-07-14,Evening,Line 1,Inspection delay,Measurement,5.9
+2026-07-14,Morning,Line 2,High temperature,Environment,13.2
+2026-07-14,Morning,Line 2,Equipment breakdown,Machine,78.5
+2026-07-14,Evening,Line 2,Changeover / setup,Method,25.0
+2026-07-14,Morning,Line 3,Equipment breakdown,Machine,21.1
+2026-07-14,Morning,Line 3,High temperature,Environment,19.5
+2026-07-14,Morning,Line 3,Equipment breakdown,Machine,83.6
+2026-07-14,Evening,Line 3,Equipment breakdown,Machine,53.8
+2026-07-14,Evening,Line 3,Inspection delay,Measurement,8.1
+2026-07-14,Night,Line 3,Power fluctuation,Environment,39.3
+2026-07-14,Night,Line 4,Changeover / setup,Method,18.9
+2026-07-14,Morning,Line 5,Material shortage,Material,26.2
+2026-07-14,Evening,Line 5,Changeover / setup,Method,10.1
+2026-07-14,Evening,Line 5,Operator absence,Man,7.8
+2026-07-14,Evening,Line 5,Material shortage,Material,15.6
+2026-07-14,Night,Line 5,Inspection delay,Measurement,20.5
+2026-07-15,Morning,Line 1,Equipment breakdown,Machine,34.2
+2026-07-15,Morning,Line 1,Operator absence,Man,10.3
+2026-07-15,Evening,Line 1,Changeover / setup,Method,7.6
+2026-07-15,Evening,Line 1,Equipment breakdown,Machine,28.6
+2026-07-15,Evening,Line 1,Operator error,Man,4.2
+2026-07-15,Night,Line 1,Equipment breakdown,Machine,46.9
+2026-07-15,Night,Line 1,Operator error,Man,10.7
+2026-07-15,Night,Line 1,Operator absence,Man,3.0
+2026-07-15,Morning,Line 2,Tool wear,Machine,30.2
+2026-07-15,Evening,Line 2,Calibration,Measurement,9.3
+2026-07-15,Evening,Line 2,Changeover / setup,Method,21.6
+2026-07-15,Evening,Line 2,Equipment breakdown,Machine,28.9
+2026-07-15,Evening,Line 2,Operator error,Man,24.9
+2026-07-15,Evening,Line 2,Changeover / setup,Method,18.3
+2026-07-15,Night,Line 2,High temperature,Environment,6.9
+2026-07-15,Night,Line 2,Equipment breakdown,Machine,38.2
+2026-07-15,Morning,Line 3,Equipment breakdown,Machine,94.7
+2026-07-15,Morning,Line 3,High temperature,Environment,11.9
+2026-07-15,Morning,Line 3,Calibration,Measurement,30.0
+2026-07-15,Evening,Line 3,Inspection delay,Measurement,27.5
+2026-07-15,Evening,Line 3,Equipment breakdown,Machine,23.4
+2026-07-15,Night,Line 3,Material shortage,Material,9.8
+2026-07-15,Night,Line 3,Operator absence,Man,26.2
+2026-07-15,Night,Line 3,Operator absence,Man,12.9
+2026-07-15,Morning,Line 4,Calibration,Measurement,3.0
+2026-07-15,Evening,Line 4,Power fluctuation,Environment,37.6
+2026-07-15,Night,Line 4,Operator absence,Man,23.5
+2026-07-15,Night,Line 4,Equipment breakdown,Machine,83.3
+2026-07-15,Morning,Line 5,Material shortage,Material,40.7
+2026-07-15,Evening,Line 5,Inspection delay,Measurement,3.0
+2026-07-15,Evening,Line 5,High temperature,Environment,13.4
+2026-07-15,Evening,Line 5,Tool wear,Machine,7.9
+2026-07-15,Evening,Line 5,Material quality issue,Material,17.5
+2026-07-15,Evening,Line 5,Operator absence,Man,6.9
+2026-07-15,Evening,Line 5,Equipment breakdown,Machine,9.0
+2026-07-15,Night,Line 5,Operator absence,Man,8.6
+2026-07-15,Night,Line 5,Material quality issue,Material,8.4
+2026-07-16,Morning,Line 1,Calibration,Measurement,11.3
+2026-07-16,Evening,Line 1,Power fluctuation,Environment,10.9
+2026-07-16,Evening,Line 1,Power fluctuation,Environment,8.7
+2026-07-16,Night,Line 1,Material shortage,Material,25.9
+2026-07-16,Night,Line 1,Material quality issue,Material,3.0
+2026-07-16,Morning,Line 2,Calibration,Measurement,8.2
+2026-07-16,Evening,Line 2,Operator absence,Man,11.4
+2026-07-16,Night,Line 2,Inspection delay,Measurement,19.1
+2026-07-16,Morning,Line 3,Equipment breakdown,Machine,4.1
+2026-07-16,Evening,Line 3,Tool wear,Machine,22.5
+2026-07-16,Evening,Line 3,Material quality issue,Material,13.0
+2026-07-16,Evening,Line 3,High temperature,Environment,13.6
+2026-07-16,Evening,Line 3,Power fluctuation,Environment,23.4
+2026-07-16,Evening,Line 3,Material shortage,Material,18.6
+2026-07-16,Evening,Line 3,Equipment breakdown,Machine,35.8
+2026-07-16,Night,Line 3,Operator error,Man,4.5
+2026-07-16,Night,Line 3,Inspection delay,Measurement,3.0
+2026-07-16,Morning,Line 4,Inspection delay,Measurement,36.4
+2026-07-16,Morning,Line 4,Equipment breakdown,Machine,50.4
+2026-07-16,Night,Line 4,Operator error,Man,3.3
+2026-07-16,Morning,Line 5,Inspection delay,Measurement,3.0
+2026-07-16,Morning,Line 5,Material quality issue,Material,25.8
+2026-07-16,Morning,Line 5,Changeover / setup,Method,15.1
+2026-07-16,Evening,Line 5,Material shortage,Material,11.9
+2026-07-16,Evening,Line 5,Material shortage,Material,27.7
+2026-07-16,Night,Line 5,High temperature,Environment,7.1
+2026-07-16,Night,Line 5,Calibration,Measurement,7.2
+2026-07-17,Morning,Line 1,Operator absence,Man,6.9
+2026-07-17,Night,Line 1,Tool wear,Machine,3.0
+2026-07-17,Night,Line 1,Operator absence,Man,30.1
+2026-07-17,Evening,Line 2,High temperature,Environment,21.2
+2026-07-17,Morning,Line 3,Operator absence,Man,29.0
+2026-07-17,Morning,Line 3,Equipment breakdown,Machine,81.3
+2026-07-17,Night,Line 3,Changeover / setup,Method,5.6
+2026-07-17,Night,Line 3,Operator error,Man,10.5
+2026-07-17,Night,Line 3,Operator absence,Man,9.4
+2026-07-17,Morning,Line 4,Tool wear,Machine,16.7
+2026-07-17,Night,Line 4,Equipment breakdown,Machine,18.0
+2026-07-17,Morning,Line 5,Operator error,Man,20.2
+2026-07-17,Evening,Line 5,Calibration,Measurement,11.7
+2026-07-17,Evening,Line 5,Material shortage,Material,70.6
+2026-07-17,Evening,Line 5,Equipment breakdown,Machine,12.7
+2026-07-17,Night,Line 5,Operator error,Man,12.3
+2026-07-17,Night,Line 5,Operator error,Man,5.3
+2026-07-18,Morning,Line 1,Equipment breakdown,Machine,22.8
+2026-07-18,Evening,Line 1,Calibration,Measurement,15.9
+2026-07-18,Evening,Line 1,High temperature,Environment,3.7
+2026-07-18,Night,Line 1,Material quality issue,Material,51.0
+2026-07-18,Morning,Line 2,Changeover / setup,Method,17.9
+2026-07-18,Morning,Line 2,Changeover / setup,Method,17.9
+2026-07-18,Evening,Line 2,Power fluctuation,Environment,38.8
+2026-07-18,Evening,Line 2,Inspection delay,Measurement,3.0
+2026-07-18,Evening,Line 2,Changeover / setup,Method,21.5
+2026-07-18,Evening,Line 2,Material quality issue,Material,37.5
+2026-07-18,Night,Line 2,Material shortage,Material,85.6
+2026-07-18,Morning,Line 3,Tool wear,Machine,21.1
+2026-07-18,Morning,Line 3,Changeover / setup,Method,13.0
+2026-07-18,Morning,Line 3,Tool wear,Machine,7.8
+2026-07-18,Morning,Line 3,Operator absence,Man,22.0
+2026-07-18,Morning,Line 3,Power fluctuation,Environment,37.9
+2026-07-18,Evening,Line 3,High temperature,Environment,13.3
+2026-07-18,Evening,Line 3,Changeover / setup,Method,5.8
+2026-07-18,Night,Line 3,Operator error,Man,4.6
+2026-07-18,Night,Line 3,Tool wear,Machine,9.2
+2026-07-18,Night,Line 3,Material shortage,Material,38.7
+2026-07-18,Night,Line 4,Material shortage,Material,75.5
+2026-07-18,Night,Line 5,Changeover / setup,Method,42.1
+2026-07-18,Night,Line 5,Tool wear,Machine,6.3
+2026-07-18,Night,Line 5,Operator error,Man,24.2
+2026-07-18,Night,Line 5,Changeover / setup,Method,28.1
+2026-07-19,Evening,Line 1,Equipment breakdown,Machine,71.8
+2026-07-19,Evening,Line 2,Equipment breakdown,Machine,20.4
+2026-07-19,Evening,Line 2,Operator absence,Man,34.6
+2026-07-19,Evening,Line 2,Changeover / setup,Method,15.8
+2026-07-19,Evening,Line 2,Operator absence,Man,13.9
+2026-07-19,Evening,Line 2,Operator absence,Man,22.0
+2026-07-19,Night,Line 2,Changeover / setup,Method,11.0
+2026-07-19,Night,Line 2,Tool wear,Machine,10.1
+2026-07-19,Morning,Line 3,Tool wear,Machine,16.1
+2026-07-19,Evening,Line 3,High temperature,Environment,19.8
+2026-07-19,Evening,Line 3,Operator absence,Man,22.1
+2026-07-19,Evening,Line 3,Equipment breakdown,Machine,17.2
+2026-07-19,Evening,Line 3,Equipment breakdown,Machine,8.6
+2026-07-19,Night,Line 3,Calibration,Measurement,3.9
+2026-07-19,Morning,Line 4,Material quality issue,Material,30.3
+2026-07-19,Evening,Line 4,Calibration,Measurement,26.3
+2026-07-19,Night,Line 4,High temperature,Environment,4.8
+2026-07-19,Evening,Line 5,Equipment breakdown,Machine,11.0
+2026-07-19,Night,Line 5,Inspection delay,Measurement,9.6
+2026-07-19,Night,Line 5,Operator absence,Man,4.3
+2026-07-19,Night,Line 5,Material shortage,Material,26.9
+2026-07-20,Morning,Line 1,Material quality issue,Material,10.0
+2026-07-20,Morning,Line 1,Equipment breakdown,Machine,30.7
+2026-07-20,Evening,Line 1,Tool wear,Machine,4.4
+2026-07-20,Night,Line 1,Operator absence,Man,33.4
+2026-07-20,Night,Line 1,Operator absence,Man,12.0
+2026-07-20,Night,Line 1,Changeover / setup,Method,22.6
+2026-07-20,Morning,Line 2,Power fluctuation,Environment,20.6
+2026-07-20,Morning,Line 2,Material shortage,Material,8.4
+2026-07-20,Night,Line 2,Tool wear,Machine,9.7
+2026-07-20,Night,Line 2,Equipment breakdown,Machine,59.6
+2026-07-20,Morning,Line 3,Equipment breakdown,Machine,22.9
+2026-07-20,Morning,Line 3,Operator absence,Man,13.7
+2026-07-20,Night,Line 3,Operator error,Man,4.4
+2026-07-20,Night,Line 3,Power fluctuation,Environment,25.3
+2026-07-20,Morning,Line 4,Material quality issue,Material,14.4
+2026-07-20,Evening,Line 4,Inspection delay,Measurement,6.8
+2026-07-20,Evening,Line 4,Calibration,Measurement,7.1
+2026-07-20,Night,Line 4,Material quality issue,Material,14.7
+2026-07-20,Morning,Line 5,Operator error,Man,15.4
+2026-07-20,Evening,Line 5,Inspection delay,Measurement,3.0
+2026-07-20,Evening,Line 5,Calibration,Measurement,8.7
+2026-07-20,Evening,Line 5,Material shortage,Material,20.2
+2026-07-20,Night,Line 5,Operator absence,Man,38.1
+2026-07-20,Night,Line 5,Operator error,Man,20.7
+2026-07-20,Night,Line 5,Operator absence,Man,22.0
+2026-07-21,Morning,Line 1,Operator error,Man,10.8
+2026-07-21,Morning,Line 1,Power fluctuation,Environment,49.0
+2026-07-21,Morning,Line 1,Operator error,Man,7.4
+2026-07-21,Morning,Line 1,Tool wear,Machine,8.8
+2026-07-21,Morning,Line 1,Equipment breakdown,Machine,30.7
+2026-07-21,Evening,Line 1,Tool wear,Machine,5.4
+2026-07-21,Night,Line 1,Operator error,Man,36.0
+2026-07-21,Morning,Line 2,Material quality issue,Material,22.3
+2026-07-21,Evening,Line 2,High temperature,Environment,26.0
+2026-07-21,Evening,Line 2,Changeover / setup,Method,30.8
+2026-07-21,Evening,Line 2,Inspection delay,Measurement,6.9
+2026-07-21,Night,Line 2,Equipment breakdown,Machine,26.3
+2026-07-21,Night,Line 2,Operator error,Man,24.1
+2026-07-21,Morning,Line 3,Inspection delay,Measurement,3.0
+2026-07-21,Morning,Line 3,High temperature,Environment,14.1
+2026-07-21,Morning,Line 3,Tool wear,Machine,11.9
+2026-07-21,Evening,Line 3,Equipment breakdown,Machine,87.8
+2026-07-21,Night,Line 3,Material shortage,Material,5.9
+2026-07-21,Night,Line 3,Tool wear,Machine,22.9
+2026-07-21,Night,Line 3,Operator error,Man,13.0
+2026-07-21,Night,Line 4,Inspection delay,Measurement,4.1
+2026-07-21,Morning,Line 5,Material shortage,Material,37.8
+2026-07-21,Morning,Line 5,Equipment breakdown,Machine,41.4
+2026-07-21,Evening,Line 5,Material quality issue,Material,53.8
+2026-07-21,Evening,Line 5,Material shortage,Material,26.2
+2026-07-21,Evening,Line 5,Operator error,Man,11.7
+2026-07-21,Night,Line 5,Equipment breakdown,Machine,140.6
+2026-07-22,Night,Line 1,Equipment breakdown,Machine,4.5
+2026-07-22,Morning,Line 2,Calibration,Measurement,41.1
+2026-07-22,Morning,Line 2,Power fluctuation,Environment,32.3
+2026-07-22,Morning,Line 2,Inspection delay,Measurement,18.6
+2026-07-22,Evening,Line 2,Calibration,Measurement,10.9
+2026-07-22,Evening,Line 2,Power fluctuation,Environment,3.4
+2026-07-22,Evening,Line 2,Tool wear,Machine,31.0
+2026-07-22,Evening,Line 2,Calibration,Measurement,14.1
+2026-07-22,Night,Line 2,Changeover / setup,Method,18.4
+2026-07-22,Morning,Line 3,Equipment breakdown,Machine,45.2
+2026-07-22,Morning,Line 3,Equipment breakdown,Machine,4.0
+2026-07-22,Morning,Line 3,Equipment breakdown,Machine,12.3
+2026-07-22,Evening,Line 3,Calibration,Measurement,19.4
+2026-07-22,Evening,Line 3,High temperature,Environment,3.1
+2026-07-22,Evening,Line 3,High temperature,Environment,6.0
+2026-07-22,Evening,Line 3,High temperature,Environment,3.5
+2026-07-22,Evening,Line 3,Material shortage,Material,11.0
+2026-07-22,Evening,Line 3,Tool wear,Machine,10.4
+2026-07-22,Evening,Line 3,Operator error,Man,8.9
+2026-07-22,Evening,Line 4,Changeover / setup,Method,21.8
+2026-07-22,Night,Line 4,Calibration,Measurement,6.6
+2026-07-22,Night,Line 4,Operator absence,Man,8.7
+2026-07-22,Night,Line 4,Operator error,Man,51.1
+2026-07-22,Night,Line 4,Operator error,Man,18.7
+2026-07-22,Morning,Line 5,High temperature,Environment,9.2
+2026-07-22,Morning,Line 5,Calibration,Measurement,3.0
+2026-07-22,Morning,Line 5,Material quality issue,Material,18.8
+2026-07-22,Evening,Line 5,Operator absence,Man,22.7
+2026-07-22,Evening,Line 5,Material shortage,Material,9.1
+2026-07-22,Evening,Line 5,Operator error,Man,9.5
+2026-07-23,Evening,Line 1,High temperature,Environment,4.2
+2026-07-23,Evening,Line 1,Material shortage,Material,16.1
+2026-07-23,Evening,Line 1,Operator error,Man,12.5
+2026-07-23,Evening,Line 1,Changeover / setup,Method,8.9
+2026-07-23,Evening,Line 1,Tool wear,Machine,16.8
+2026-07-23,Night,Line 1,Operator error,Man,27.6
+2026-07-23,Night,Line 1,Operator error,Man,22.9
+2026-07-23,Night,Line 1,Operator absence,Man,12.8
+2026-07-23,Morning,Line 2,Changeover / setup,Method,22.6
+2026-07-23,Morning,Line 2,Tool wear,Machine,9.7
+2026-07-23,Morning,Line 2,Changeover / setup,Method,17.1
+2026-07-23,Evening,Line 2,Equipment breakdown,Machine,48.5
+2026-07-23,Evening,Line 2,Changeover / setup,Method,13.8
+2026-07-23,Night,Line 2,High temperature,Environment,18.0
+2026-07-23,Morning,Line 3,Changeover / setup,Method,12.2
+2026-07-23,Evening,Line 3,Operator absence,Man,42.2
+2026-07-23,Evening,Line 3,Equipment breakdown,Machine,16.5
+2026-07-23,Night,Line 3,Material quality issue,Material,5.8
+2026-07-23,Night,Line 3,Operator absence,Man,9.7
+2026-07-23,Night,Line 4,Operator error,Man,8.2
+2026-07-23,Evening,Line 5,Calibration,Measurement,3.0
+2026-07-23,Night,Line 5,Power fluctuation,Environment,14.9
+2026-07-23,Night,Line 5,Operator error,Man,7.8
+2026-07-23,Night,Line 5,Material quality issue,Material,24.7
+2026-07-24,Morning,Line 1,High temperature,Environment,45.7
+2026-07-24,Evening,Line 1,Power fluctuation,Environment,34.6
+2026-07-24,Evening,Line 1,High temperature,Environment,8.9
+2026-07-24,Evening,Line 1,High temperature,Environment,4.2
+2026-07-24,Night,Line 1,Power fluctuation,Environment,17.7
+2026-07-24,Morning,Line 2,Tool wear,Machine,7.4
+2026-07-24,Morning,Line 2,Material quality issue,Material,33.6
+2026-07-24,Evening,Line 2,Material shortage,Material,41.8
+2026-07-24,Night,Line 2,Changeover / setup,Method,47.1
+2026-07-24,Morning,Line 3,Calibration,Measurement,35.2
+2026-07-24,Morning,Line 3,Operator absence,Man,44.7
+2026-07-24,Evening,Line 3,Operator absence,Man,9.7
+2026-07-24,Evening,Line 3,Power fluctuation,Environment,16.4
+2026-07-24,Evening,Line 3,Equipment breakdown,Machine,48.4
+2026-07-24,Night,Line 3,Equipment breakdown,Machine,30.9
+2026-07-24,Night,Line 3,Changeover / setup,Method,16.3
+2026-07-24,Night,Line 3,Operator error,Man,8.7
+2026-07-24,Morning,Line 4,Material shortage,Material,15.2
+2026-07-24,Morning,Line 4,Operator error,Man,15.3
+2026-07-24,Evening,Line 4,Power fluctuation,Environment,13.4
+2026-07-24,Night,Line 4,Inspection delay,Measurement,5.5
+2026-07-24,Night,Line 4,High temperature,Environment,11.5
+2026-07-24,Night,Line 4,Calibration,Measurement,11.5
+2026-07-24,Night,Line 4,Operator error,Man,7.0
+2026-07-24,Evening,Line 5,Tool wear,Machine,14.2
+2026-07-25,Evening,Line 1,Tool wear,Machine,6.8
+2026-07-25,Evening,Line 1,Calibration,Measurement,19.6
+2026-07-25,Night,Line 1,Material shortage,Material,8.7
+2026-07-25,Night,Line 2,Changeover / setup,Method,16.7
+2026-07-25,Night,Line 2,Equipment breakdown,Machine,82.4
+2026-07-25,Night,Line 2,Operator absence,Man,9.3
+2026-07-25,Evening,Line 3,Material quality issue,Material,31.0
+2026-07-25,Evening,Line 3,Calibration,Measurement,6.1
+2026-07-25,Evening,Line 3,Equipment breakdown,Machine,42.8
+2026-07-25,Evening,Line 3,Power fluctuation,Environment,7.2
+2026-07-25,Evening,Line 3,Equipment breakdown,Machine,8.1
+2026-07-25,Night,Line 3,Equipment breakdown,Machine,12.9
+2026-07-25,Night,Line 3,Inspection delay,Measurement,10.3
+2026-07-25,Night,Line 3,Operator error,Man,12.7
+2026-07-25,Night,Line 3,Operator absence,Man,24.7
+2026-07-25,Morning,Line 4,High temperature,Environment,11.1
+2026-07-25,Evening,Line 4,Material shortage,Material,28.3
+2026-07-25,Evening,Line 4,Inspection delay,Measurement,4.7
+2026-07-25,Night,Line 4,Equipment breakdown,Machine,37.5
+2026-07-25,Morning,Line 5,High temperature,Environment,12.8
+2026-07-25,Night,Line 5,Changeover / setup,Method,49.3
+2026-07-25,Night,Line 5,Operator error,Man,21.4
+2026-07-25,Night,Line 5,Tool wear,Machine,22.9
+2026-07-26,Evening,Line 1,Operator error,Man,7.3
+2026-07-26,Morning,Line 2,Operator error,Man,23.6
+2026-07-26,Morning,Line 2,Tool wear,Machine,10.1
+2026-07-26,Evening,Line 2,Power fluctuation,Environment,17.2
+2026-07-26,Evening,Line 2,Equipment breakdown,Machine,3.0
+2026-07-26,Evening,Line 2,Material quality issue,Material,15.5
+2026-07-26,Morning,Line 3,Equipment breakdown,Machine,13.8
+2026-07-26,Evening,Line 3,Equipment breakdown,Machine,48.0
+2026-07-26,Evening,Line 3,Equipment breakdown,Machine,21.5
+2026-07-26,Evening,Line 3,Power fluctuation,Environment,3.0
+2026-07-26,Evening,Line 4,High temperature,Environment,14.1
+2026-07-26,Night,Line 4,Material quality issue,Material,27.6
+2026-07-26,Night,Line 4,Operator error,Man,9.0
+2026-07-26,Evening,Line 5,Material shortage,Material,49.1
+2026-07-26,Evening,Line 5,Operator absence,Man,5.7
+2026-07-26,Night,Line 5,Material quality issue,Material,8.4
+2026-07-27,Morning,Line 1,Tool wear,Machine,11.2
+2026-07-27,Morning,Line 1,Material quality issue,Material,13.2
+2026-07-27,Evening,Line 1,Material shortage,Material,34.9
+2026-07-27,Evening,Line 1,Material quality issue,Material,12.9
+2026-07-27,Evening,Line 1,Operator error,Man,3.0
+2026-07-27,Evening,Line 1,Power fluctuation,Environment,16.2
+2026-07-27,Night,Line 1,Material quality issue,Material,3.0
+2026-07-27,Evening,Line 2,Calibration,Measurement,51.2
+2026-07-27,Evening,Line 2,Material quality issue,Material,9.3
+2026-07-27,Night,Line 2,Power fluctuation,Environment,11.0
+2026-07-27,Night,Line 2,Inspection delay,Measurement,10.4
+2026-07-27,Morning,Line 3,Changeover / setup,Method,19.2
+2026-07-27,Morning,Line 3,Operator absence,Man,6.5
+2026-07-27,Morning,Line 3,Equipment breakdown,Machine,97.4
+2026-07-27,Morning,Line 3,Equipment breakdown,Machine,13.3
+2026-07-27,Morning,Line 3,Operator error,Man,6.7
+2026-07-27,Morning,Line 3,Changeover / setup,Method,12.1
+2026-07-27,Morning,Line 3,Power fluctuation,Environment,4.1
+2026-07-27,Evening,Line 3,Tool wear,Machine,10.9
+2026-07-27,Evening,Line 3,Material quality issue,Material,16.1
+2026-07-27,Morning,Line 4,Material quality issue,Material,12.4
+2026-07-27,Evening,Line 4,Equipment breakdown,Machine,41.5
+2026-07-27,Night,Line 4,Inspection delay,Measurement,12.5
+2026-07-27,Morning,Line 5,Operator error,Man,14.0
+2026-07-27,Morning,Line 5,Material shortage,Material,33.1
+2026-07-27,Morning,Line 5,Equipment breakdown,Machine,26.4
+2026-07-27,Night,Line 5,Operator absence,Man,34.1
+2026-07-27,Night,Line 5,Operator absence,Man,28.5
+2026-07-28,Morning,Line 1,Material quality issue,Material,10.3
+2026-07-28,Morning,Line 1,Equipment breakdown,Machine,37.9
+2026-07-28,Morning,Line 1,Material quality issue,Material,19.6
+2026-07-28,Evening,Line 2,Power fluctuation,Environment,41.3
+2026-07-28,Evening,Line 2,Power fluctuation,Environment,70.2
+2026-07-28,Night,Line 2,Calibration,Measurement,7.4
+2026-07-28,Morning,Line 3,Power fluctuation,Environment,9.6
+2026-07-28,Morning,Line 3,High temperature,Environment,6.5
+2026-07-28,Evening,Line 3,Changeover / setup,Method,7.9
+2026-07-28,Evening,Line 3,Calibration,Measurement,8.1
+2026-07-28,Morning,Line 4,High temperature,Environment,35.0
+2026-07-28,Morning,Line 4,Inspection delay,Measurement,7.7
+2026-07-28,Morning,Line 4,Operator error,Man,11.2
+2026-07-28,Evening,Line 4,Material shortage,Material,12.0
+2026-07-28,Evening,Line 4,Inspection delay,Measurement,3.0
+2026-07-28,Evening,Line 4,Changeover / setup,Method,39.0
+2026-07-28,Night,Line 4,Operator error,Man,6.7
+2026-07-28,Morning,Line 5,Material shortage,Material,12.8
+2026-07-28,Morning,Line 5,Material shortage,Material,15.6
+2026-07-28,Morning,Line 5,Equipment breakdown,Machine,3.0
+2026-07-28,Evening,Line 5,Material shortage,Material,26.5
+2026-07-28,Night,Line 5,Tool wear,Machine,23.4
+2026-07-28,Night,Line 5,Operator error,Man,8.0
+2026-07-29,Morning,Line 1,Material quality issue,Material,3.0
+2026-07-29,Morning,Line 1,Changeover / setup,Method,26.5
+2026-07-29,Evening,Line 1,Calibration,Measurement,13.4
+2026-07-29,Night,Line 1,Changeover / setup,Method,21.3
+2026-07-29,Night,Line 1,Material shortage,Material,15.8
+2026-07-29,Night,Line 1,Material quality issue,Material,24.9
+2026-07-29,Morning,Line 2,Material shortage,Material,21.9
+2026-07-29,Evening,Line 2,Tool wear,Machine,21.0
+2026-07-29,Night,Line 2,Operator absence,Man,22.5
+2026-07-29,Night,Line 2,Power fluctuation,Environment,27.8
+2026-07-29,Night,Line 2,Material quality issue,Material,51.7
+2026-07-29,Morning,Line 3,Material shortage,Material,68.3
+2026-07-29,Morning,Line 3,Equipment breakdown,Machine,8.5
+2026-07-29,Morning,Line 3,Operator error,Man,26.3
+2026-07-29,Evening,Line 3,Calibration,Measurement,5.8
+2026-07-29,Evening,Line 3,Power fluctuation,Environment,3.0
+2026-07-29,Night,Line 3,Equipment breakdown,Machine,58.1
+2026-07-29,Night,Line 3,Equipment breakdown,Machine,16.8
+2026-07-29,Morning,Line 4,Material shortage,Material,12.1
+2026-07-29,Morning,Line 4,High temperature,Environment,3.0
+2026-07-29,Night,Line 4,Material shortage,Material,14.5
+2026-07-29,Night,Line 4,Operator absence,Man,24.4
+2026-07-29,Night,Line 4,Changeover / setup,Method,22.5
+2026-07-29,Morning,Line 5,Operator absence,Man,4.0
+2026-07-29,Morning,Line 5,Material shortage,Material,9.9
+2026-07-29,Evening,Line 5,Material quality issue,Material,26.1
+2026-07-29,Evening,Line 5,Equipment breakdown,Machine,29.4
+2026-07-29,Evening,Line 5,Equipment breakdown,Machine,41.3
+2026-07-29,Evening,Line 5,Material shortage,Material,22.5
+2026-07-29,Evening,Line 5,Power fluctuation,Environment,17.5
+2026-07-29,Night,Line 5,Inspection delay,Measurement,10.6
+2026-07-29,Night,Line 5,Material shortage,Material,33.9
+2026-07-30,Morning,Line 1,Equipment breakdown,Machine,13.6
+2026-07-30,Morning,Line 1,Material quality issue,Material,12.1
+2026-07-30,Evening,Line 1,Material quality issue,Material,32.3
+2026-07-30,Morning,Line 2,High temperature,Environment,6.2
+2026-07-30,Evening,Line 2,Operator absence,Man,9.9
+2026-07-30,Evening,Line 2,Inspection delay,Measurement,17.9
+2026-07-30,Night,Line 2,Operator absence,Man,20.5
+2026-07-30,Night,Line 2,Material shortage,Material,4.4
+2026-07-30,Morning,Line 3,Operator absence,Man,7.6
+2026-07-30,Night,Line 3,Equipment breakdown,Machine,8.1
+2026-07-30,Night,Line 3,Operator absence,Man,21.6
+2026-07-30,Morning,Line 4,High temperature,Environment,7.8
+2026-07-30,Evening,Line 4,Equipment breakdown,Machine,30.4
+2026-07-30,Night,Line 4,Operator absence,Man,22.0
+2026-07-30,Morning,Line 5,Material shortage,Material,44.0
+2026-07-30,Morning,Line 5,Equipment breakdown,Machine,31.2
+2026-07-30,Morning,Line 5,Changeover / setup,Method,19.4
+2026-07-30,Night,Line 5,Operator error,Man,9.6
+2026-07-30,Night,Line 5,Operator absence,Man,38.3
+2026-07-31,Night,Line 1,High temperature,Environment,13.6
+2026-07-31,Morning,Line 3,Changeover / setup,Method,32.1
+2026-07-31,Morning,Line 3,Material quality issue,Material,26.4
+2026-07-31,Morning,Line 3,Tool wear,Machine,20.0
+2026-07-31,Evening,Line 3,Inspection delay,Measurement,20.7
+2026-07-31,Night,Line 3,Equipment breakdown,Machine,44.4
+2026-07-31,Night,Line 3,Equipment breakdown,Machine,27.4
+2026-07-31,Night,Line 3,Equipment breakdown,Machine,66.2
+2026-07-31,Morning,Line 4,Changeover / setup,Method,29.4
+2026-07-31,Morning,Line 4,Inspection delay,Measurement,12.0
+2026-07-31,Morning,Line 4,High temperature,Environment,10.4
+2026-07-31,Morning,Line 4,Tool wear,Machine,14.3
+2026-07-31,Evening,Line 4,Material shortage,Material,77.0
+2026-07-31,Evening,Line 4,Changeover / setup,Method,10.4
+2026-07-31,Evening,Line 4,Equipment breakdown,Machine,30.2
+2026-07-31,Evening,Line 4,Material quality issue,Material,5.6
+2026-07-31,Evening,Line 4,Operator absence,Man,16.6
+2026-07-31,Night,Line 4,Equipment breakdown,Machine,33.4
+2026-07-31,Night,Line 4,Equipment breakdown,Machine,26.6
+2026-07-31,Morning,Line 5,Tool wear,Machine,3.5
+2026-07-31,Morning,Line 5,Changeover / setup,Method,11.6
+2026-07-31,Evening,Line 5,Equipment breakdown,Machine,3.7
+2026-07-31,Evening,Line 5,Changeover / setup,Method,36.8
+2026-07-31,Night,Line 5,Inspection delay,Measurement,6.9
+2026-07-31,Night,Line 5,Material shortage,Material,11.1
+2026-07-31,Night,Line 5,High temperature,Environment,6.0
+2026-07-31,Night,Line 5,Inspection delay,Measurement,17.2
+2026-08-01,Morning,Line 1,Calibration,Measurement,34.9
+2026-08-01,Morning,Line 2,Changeover / setup,Method,28.1
+2026-08-01,Evening,Line 2,Tool wear,Machine,5.1
+2026-08-01,Evening,Line 2,Material shortage,Material,27.6
+2026-08-01,Morning,Line 3,High temperature,Environment,14.5
+2026-08-01,Morning,Line 3,Inspection delay,Measurement,16.5
+2026-08-01,Morning,Line 3,Material shortage,Material,65.6
+2026-08-01,Evening,Line 3,Equipment breakdown,Machine,65.9
+2026-08-01,Evening,Line 3,Calibration,Measurement,3.0
+2026-08-01,Evening,Line 3,Inspection delay,Measurement,3.0
+2026-08-01,Night,Line 3,Equipment breakdown,Machine,42.5
+2026-08-01,Night,Line 3,Equipment breakdown,Machine,67.1
+2026-08-01,Night,Line 3,Equipment breakdown,Machine,59.0
+2026-08-01,Morning,Line 4,Changeover / setup,Method,10.4
+2026-08-01,Evening,Line 4,Equipment breakdown,Machine,58.1
+2026-08-01,Evening,Line 4,Power fluctuation,Environment,10.0
+2026-08-01,Evening,Line 4,Tool wear,Machine,13.9
+2026-08-01,Night,Line 4,Equipment breakdown,Machine,30.1
+2026-08-01,Night,Line 4,Operator error,Man,18.7
+2026-08-01,Night,Line 4,Power fluctuation,Environment,35.5
+2026-08-01,Morning,Line 5,Tool wear,Machine,3.9
+2026-08-01,Morning,Line 5,Material shortage,Material,16.8
+2026-08-01,Evening,Line 5,Material shortage,Material,31.8
+2026-08-01,Evening,Line 5,Material shortage,Material,46.5
+2026-08-01,Night,Line 5,Material shortage,Material,21.3
+2026-08-02,Morning,Line 1,High temperature,Environment,3.0
+2026-08-02,Evening,Line 1,Calibration,Measurement,11.3
+2026-08-02,Night,Line 1,Material shortage,Material,7.8
+2026-08-02,Night,Line 1,Changeover / setup,Method,10.3
+2026-08-02,Morning,Line 2,High temperature,Environment,5.9
+2026-08-02,Morning,Line 2,Calibration,Measurement,27.7
+2026-08-02,Evening,Line 2,Operator error,Man,23.5
+2026-08-02,Evening,Line 2,Inspection delay,Measurement,12.5
+2026-08-02,Night,Line 2,Operator error,Man,19.0
+2026-08-02,Night,Line 2,Power fluctuation,Environment,20.0
+2026-08-02,Morning,Line 3,Material quality issue,Material,26.3
+2026-08-02,Morning,Line 3,Equipment breakdown,Machine,13.1
+2026-08-02,Morning,Line 3,Changeover / setup,Method,3.0
+2026-08-02,Night,Line 3,Equipment breakdown,Machine,16.7
+2026-08-02,Morning,Line 4,Changeover / setup,Method,43.8
+2026-08-02,Morning,Line 4,Equipment breakdown,Machine,22.7
+2026-08-02,Morning,Line 4,Power fluctuation,Environment,36.3
+2026-08-02,Evening,Line 4,Inspection delay,Measurement,11.6
+2026-08-02,Evening,Line 4,Operator error,Man,9.7
+2026-08-02,Night,Line 4,Operator error,Man,13.2
+2026-08-02,Night,Line 4,Operator error,Man,9.5
+2026-08-02,Morning,Line 5,Equipment breakdown,Machine,18.5
+2026-08-02,Evening,Line 5,Tool wear,Machine,17.4
+2026-08-02,Evening,Line 5,Equipment breakdown,Machine,45.9
+2026-08-02,Evening,Line 5,Equipment breakdown,Machine,28.7
+2026-08-03,Morning,Line 1,Material shortage,Material,29.8
+2026-08-03,Morning,Line 1,Equipment breakdown,Machine,20.0
+2026-08-03,Evening,Line 1,Power fluctuation,Environment,19.9
+2026-08-03,Evening,Line 1,Power fluctuation,Environment,7.7
+2026-08-03,Evening,Line 1,Tool wear,Machine,37.0
+2026-08-03,Night,Line 1,Material shortage,Material,11.6
+2026-08-03,Night,Line 1,High temperature,Environment,7.9
+2026-08-03,Night,Line 1,Calibration,Measurement,12.0
+2026-08-03,Night,Line 1,Operator error,Man,11.5
+2026-08-03,Night,Line 1,Material shortage,Material,13.9
+2026-08-03,Morning,Line 2,Inspection delay,Measurement,8.3
+2026-08-03,Morning,Line 2,Changeover / setup,Method,40.0
+2026-08-03,Night,Line 2,Power fluctuation,Environment,18.9
+2026-08-03,Night,Line 2,Operator error,Man,15.4
+2026-08-03,Morning,Line 3,Operator error,Man,9.3
+2026-08-03,Morning,Line 3,Operator absence,Man,9.6
+2026-08-03,Morning,Line 3,Inspection delay,Measurement,11.1
+2026-08-03,Morning,Line 3,Operator absence,Man,12.8
+2026-08-03,Evening,Line 3,Material shortage,Material,15.3
+2026-08-03,Night,Line 3,Operator error,Man,31.6
+2026-08-03,Morning,Line 4,Equipment breakdown,Machine,4.5
+2026-08-03,Morning,Line 4,Operator absence,Man,25.7
+2026-08-03,Evening,Line 4,Inspection delay,Measurement,6.9
+2026-08-03,Night,Line 4,Inspection delay,Measurement,3.0
+2026-08-03,Night,Line 4,Material shortage,Material,21.5
+2026-08-03,Night,Line 4,Tool wear,Machine,17.4
+2026-08-03,Morning,Line 5,Material shortage,Material,38.2
+2026-08-03,Night,Line 5,Calibration,Measurement,17.6
+2026-08-03,Night,Line 5,Inspection delay,Measurement,6.3
+2026-08-03,Night,Line 5,Calibration,Measurement,33.9
+2026-08-04,Evening,Line 1,Changeover / setup,Method,11.1
+2026-08-04,Morning,Line 2,High temperature,Environment,4.5
+2026-08-04,Morning,Line 2,Material shortage,Material,17.1
+2026-08-04,Morning,Line 2,Material shortage,Material,28.2
+2026-08-04,Morning,Line 3,Equipment breakdown,Machine,38.8
+2026-08-04,Morning,Line 3,Operator absence,Man,21.5
+2026-08-04,Evening,Line 3,Equipment breakdown,Machine,23.0
+2026-08-04,Evening,Line 3,Operator error,Man,11.7
+2026-08-04,Night,Line 3,Equipment breakdown,Machine,25.3
+2026-08-04,Night,Line 3,Operator error,Man,25.8
+2026-08-04,Night,Line 3,Operator error,Man,25.9
+2026-08-04,Evening,Line 4,Operator error,Man,14.2
+2026-08-04,Evening,Line 4,Operator error,Man,7.9
+2026-08-04,Evening,Line 4,Inspection delay,Measurement,29.3
+2026-08-04,Evening,Line 4,Calibration,Measurement,13.3
+2026-08-04,Night,Line 4,Power fluctuation,Environment,24.6
+2026-08-04,Night,Line 4,Tool wear,Machine,43.0
+2026-08-04,Night,Line 4,Material shortage,Material,37.3
+2026-08-04,Night,Line 4,Tool wear,Machine,10.2
+2026-08-04,Night,Line 4,Power fluctuation,Environment,11.9
+2026-08-04,Morning,Line 5,Material shortage,Material,62.7
+2026-08-04,Morning,Line 5,Material quality issue,Material,7.0
+2026-08-04,Morning,Line 5,Inspection delay,Measurement,23.8
+2026-08-04,Evening,Line 5,Material shortage,Material,17.2
+2026-08-04,Evening,Line 5,Inspection delay,Measurement,3.0
+2026-08-04,Evening,Line 5,Material shortage,Material,19.2
+2026-08-04,Night,Line 5,Tool wear,Machine,4.5
+2026-08-04,Night,Line 5,Equipment breakdown,Machine,49.1
+2026-08-04,Night,Line 5,Tool wear,Machine,20.1
+2026-08-05,Evening,Line 1,Operator error,Man,8.5
+2026-08-05,Evening,Line 1,Operator error,Man,17.3
+2026-08-05,Night,Line 1,Operator absence,Man,37.9
+2026-08-05,Morning,Line 2,Power fluctuation,Environment,14.2
+2026-08-05,Morning,Line 2,Operator absence,Man,10.5
+2026-08-05,Night,Line 2,Operator absence,Man,20.0
+2026-08-05,Morning,Line 3,Power fluctuation,Environment,5.8
+2026-08-05,Morning,Line 3,Tool wear,Machine,16.9
+2026-08-05,Morning,Line 3,Material quality issue,Material,25.7
+2026-08-05,Morning,Line 3,High temperature,Environment,4.5
+2026-08-05,Evening,Line 3,Changeover / setup,Method,5.2
+2026-08-05,Evening,Line 3,Material shortage,Material,12.1
+2026-08-05,Evening,Line 3,High temperature,Environment,14.0
+2026-08-05,Night,Line 3,Changeover / setup,Method,68.4
+2026-08-05,Night,Line 3,Operator error,Man,3.0
+2026-08-05,Night,Line 3,Equipment breakdown,Machine,58.4
+2026-08-05,Evening,Line 4,Tool wear,Machine,4.8
+2026-08-05,Evening,Line 4,Material shortage,Material,13.5
+2026-08-05,Night,Line 4,Operator absence,Man,6.2
+2026-08-05,Night,Line 4,Operator error,Man,12.4
+2026-08-05,Morning,Line 5,Inspection delay,Measurement,3.1
+2026-08-05,Morning,Line 5,Equipment breakdown,Machine,54.8
+2026-08-06,Morning,Line 1,Operator absence,Man,50.8
+2026-08-06,Morning,Line 1,High temperature,Environment,8.8
+2026-08-06,Night,Line 1,Inspection delay,Measurement,5.6
+2026-08-06,Evening,Line 2,Calibration,Measurement,10.4
+2026-08-06,Night,Line 2,Power fluctuation,Environment,36.7
+2026-08-06,Night,Line 2,Power fluctuation,Environment,48.4
+2026-08-06,Morning,Line 3,Operator absence,Man,13.1
+2026-08-06,Morning,Line 3,Calibration,Measurement,3.9
+2026-08-06,Evening,Line 3,Changeover / setup,Method,19.4
+2026-08-06,Evening,Line 3,Changeover / setup,Method,27.2
+2026-08-06,Evening,Line 3,Equipment breakdown,Machine,30.1
+2026-08-06,Night,Line 3,Operator absence,Man,8.6
+2026-08-06,Night,Line 3,Operator absence,Man,6.2
+2026-08-06,Night,Line 3,Operator absence,Man,3.0
+2026-08-06,Morning,Line 4,Changeover / setup,Method,33.4
+2026-08-06,Evening,Line 4,Material quality issue,Material,7.9
+2026-08-06,Night,Line 4,Material shortage,Material,12.3
+2026-08-06,Morning,Line 5,Material shortage,Material,20.7
+2026-08-06,Evening,Line 5,Power fluctuation,Environment,11.1
+2026-08-06,Evening,Line 5,High temperature,Environment,6.2
+2026-08-06,Night,Line 5,Operator absence,Man,6.5
+2026-08-06,Night,Line 5,Material shortage,Material,20.3
+2026-08-06,Night,Line 5,Material shortage,Material,57.2
+2026-08-07,Evening,Line 1,Operator absence,Man,5.7
+2026-08-07,Night,Line 1,Equipment breakdown,Machine,11.0
+2026-08-07,Night,Line 1,Operator error,Man,9.4
+2026-08-07,Morning,Line 2,Material quality issue,Material,43.4
+2026-08-07,Evening,Line 2,Tool wear,Machine,3.7
+2026-08-07,Night,Line 2,Material quality issue,Material,9.4
+2026-08-07,Morning,Line 3,Inspection delay,Measurement,30.5
+2026-08-07,Morning,Line 3,Material shortage,Material,31.4
+2026-08-07,Evening,Line 3,Calibration,Measurement,3.1
+2026-08-07,Evening,Line 3,Tool wear,Machine,8.2
+2026-08-07,Evening,Line 3,High temperature,Environment,9.8
+2026-08-07,Morning,Line 4,Power fluctuation,Environment,11.7
+2026-08-07,Morning,Line 4,High temperature,Environment,5.4
+2026-08-07,Evening,Line 4,Operator absence,Man,60.2
+2026-08-07,Night,Line 4,Equipment breakdown,Machine,32.5
+2026-08-07,Night,Line 4,Material quality issue,Material,45.0
+2026-08-07,Morning,Line 5,Material shortage,Material,34.0
+2026-08-07,Morning,Line 5,Material shortage,Material,15.1
+2026-08-07,Morning,Line 5,Operator absence,Man,5.7
+2026-08-08,Morning,Line 1,High temperature,Environment,18.1
+2026-08-08,Evening,Line 1,Operator absence,Man,51.2
+2026-08-08,Evening,Line 1,High temperature,Environment,8.4
+2026-08-08,Evening,Line 1,Changeover / setup,Method,45.2
+2026-08-08,Evening,Line 1,Operator absence,Man,15.5
+2026-08-08,Night,Line 1,Material shortage,Material,16.9
+2026-08-08,Night,Line 1,Operator absence,Man,14.2
+2026-08-08,Night,Line 1,Material quality issue,Material,17.5
+2026-08-08,Night,Line 1,Tool wear,Machine,21.7
+2026-08-08,Morning,Line 2,High temperature,Environment,10.8
+2026-08-08,Evening,Line 2,Operator absence,Man,18.4
+2026-08-08,Evening,Line 2,Changeover / setup,Method,34.4
+2026-08-08,Night,Line 2,Tool wear,Machine,32.6
+2026-08-08,Night,Line 2,Operator absence,Man,18.9
+2026-08-08,Night,Line 2,Material shortage,Material,9.7
+2026-08-08,Morning,Line 3,Operator absence,Man,16.3
+2026-08-08,Morning,Line 3,High temperature,Environment,21.7
+2026-08-08,Morning,Line 3,Material shortage,Material,20.1
+2026-08-08,Morning,Line 3,Inspection delay,Measurement,8.1
+2026-08-08,Morning,Line 3,Inspection delay,Measurement,32.6
+2026-08-08,Evening,Line 3,Material quality issue,Material,20.1
+2026-08-08,Evening,Line 3,Material quality issue,Material,20.3
+2026-08-08,Evening,Line 3,Operator error,Man,3.0
+2026-08-08,Night,Line 3,Power fluctuation,Environment,30.0
+2026-08-08,Night,Line 3,Material shortage,Material,48.8
+2026-08-08,Night,Line 3,Changeover / setup,Method,14.3
+2026-08-08,Morning,Line 4,Operator error,Man,3.0
+2026-08-08,Morning,Line 4,Tool wear,Machine,25.7
+2026-08-08,Evening,Line 4,Material quality issue,Material,8.6
+2026-08-08,Evening,Line 4,Operator absence,Man,13.8
+2026-08-08,Evening,Line 4,Material shortage,Material,20.7
+2026-08-08,Morning,Line 5,Equipment breakdown,Machine,48.3
+2026-08-08,Evening,Line 5,Material shortage,Material,18.6
+2026-08-08,Night,Line 5,Equipment breakdown,Machine,71.8
+2026-08-08,Night,Line 5,Operator error,Man,8.3
+2026-08-09,Morning,Line 1,Changeover / setup,Method,30.6
+2026-08-09,Evening,Line 1,Calibration,Measurement,11.1
+2026-08-09,Night,Line 1,Calibration,Measurement,4.3
+2026-08-09,Night,Line 1,Material quality issue,Material,20.0
+2026-08-09,Morning,Line 2,Operator absence,Man,11.5
+2026-08-09,Evening,Line 2,Material shortage,Material,13.0
+2026-08-09,Evening,Line 2,Tool wear,Machine,12.7
+2026-08-09,Evening,Line 2,Changeover / setup,Method,7.8
+2026-08-09,Night,Line 2,Operator error,Man,7.2
+2026-08-09,Morning,Line 3,Equipment breakdown,Machine,56.0
+2026-08-09,Morning,Line 3,High temperature,Environment,9.5
+2026-08-09,Morning,Line 3,High temperature,Environment,3.0
+2026-08-09,Evening,Line 3,Changeover / setup,Method,13.2
+2026-08-09,Evening,Line 3,Material shortage,Material,37.0
+2026-08-09,Evening,Line 3,Equipment breakdown,Machine,100.6
+2026-08-09,Night,Line 3,Equipment breakdown,Machine,24.3
+2026-08-09,Night,Line 3,Operator error,Man,30.4
+2026-08-09,Evening,Line 4,High temperature,Environment,7.6
+2026-08-09,Evening,Line 4,Changeover / setup,Method,17.7
+2026-08-09,Evening,Line 4,Material quality issue,Material,9.2
+2026-08-09,Night,Line 4,Inspection delay,Measurement,26.0
+2026-08-09,Night,Line 4,High temperature,Environment,4.4
+2026-08-09,Morning,Line 5,Material shortage,Material,19.8
+2026-08-09,Evening,Line 5,Changeover / setup,Method,13.8
+2026-08-09,Evening,Line 5,Equipment breakdown,Machine,30.5
+2026-08-09,Evening,Line 5,Material quality issue,Material,21.9
+2026-08-09,Night,Line 5,Operator error,Man,3.5
+2026-08-09,Night,Line 5,Material shortage,Material,7.6
+2026-08-09,Night,Line 5,Power fluctuation,Environment,3.4
+2026-08-09,Night,Line 5,Operator absence,Man,12.3
+2026-08-09,Night,Line 5,Operator absence,Man,17.5
+2026-08-10,Morning,Line 1,Equipment breakdown,Machine,49.2
+2026-08-10,Morning,Line 1,Inspection delay,Measurement,17.6
+2026-08-10,Evening,Line 1,Changeover / setup,Method,22.1
+2026-08-10,Night,Line 1,Power fluctuation,Environment,3.0
+2026-08-10,Night,Line 1,Power fluctuation,Environment,3.8
+2026-08-10,Night,Line 1,Power fluctuation,Environment,26.9
+2026-08-10,Night,Line 1,Equipment breakdown,Machine,32.0
+2026-08-10,Night,Line 1,Equipment breakdown,Machine,79.2
+2026-08-10,Morning,Line 2,Operator error,Man,32.9
+2026-08-10,Morning,Line 2,Changeover / setup,Method,13.0
+2026-08-10,Morning,Line 2,Material shortage,Material,60.4
+2026-08-10,Evening,Line 2,Equipment breakdown,Machine,50.5
+2026-08-10,Evening,Line 2,High temperature,Environment,10.0
+2026-08-10,Evening,Line 2,Changeover / setup,Method,16.5
+2026-08-10,Evening,Line 2,Material shortage,Material,9.7
+2026-08-10,Morning,Line 3,Material shortage,Material,41.3
+2026-08-10,Evening,Line 3,Operator absence,Man,5.5
+2026-08-10,Evening,Line 3,Equipment breakdown,Machine,12.0
+2026-08-10,Night,Line 3,Calibration,Measurement,47.9
+2026-08-10,Night,Line 3,Equipment breakdown,Machine,51.6
+2026-08-10,Morning,Line 4,Operator absence,Man,42.2
+2026-08-10,Night,Line 4,Power fluctuation,Environment,13.2
+2026-08-10,Night,Line 4,Material shortage,Material,13.0
+2026-08-10,Night,Line 4,Equipment breakdown,Machine,71.1
+2026-08-10,Night,Line 4,Material quality issue,Material,37.5
+2026-08-10,Morning,Line 5,Material shortage,Material,32.6
+2026-08-11,Morning,Line 1,Calibration,Measurement,3.0
+2026-08-11,Morning,Line 1,Inspection delay,Measurement,28.6
+2026-08-11,Morning,Line 1,High temperature,Environment,6.8
+2026-08-11,Evening,Line 1,Operator error,Man,8.0
+2026-08-11,Evening,Line 1,Operator error,Man,20.9
+2026-08-11,Evening,Line 1,Material quality issue,Material,15.9
+2026-08-11,Evening,Line 1,High temperature,Environment,4.9
+2026-08-11,Night,Line 1,Operator absence,Man,14.5
+2026-08-11,Morning,Line 2,Power fluctuation,Environment,32.1
+2026-08-11,Morning,Line 2,Operator absence,Man,3.8
+2026-08-11,Morning,Line 2,High temperature,Environment,25.7
+2026-08-11,Morning,Line 2,Changeover / setup,Method,26.5
+2026-08-11,Evening,Line 2,Changeover / setup,Method,5.4
+2026-08-11,Evening,Line 2,Material shortage,Material,3.0
+2026-08-11,Evening,Line 2,Changeover / setup,Method,20.4
+2026-08-11,Morning,Line 3,Operator error,Man,20.7
+2026-08-11,Morning,Line 3,Operator absence,Man,13.6
+2026-08-11,Morning,Line 3,Inspection delay,Measurement,16.0
+2026-08-11,Evening,Line 3,Operator absence,Man,12.7
+2026-08-11,Evening,Line 3,Power fluctuation,Environment,32.4
+2026-08-11,Evening,Line 3,Power fluctuation,Environment,26.1
+2026-08-11,Evening,Line 3,Equipment breakdown,Machine,17.5
+2026-08-11,Night,Line 3,Tool wear,Machine,3.6
+2026-08-11,Night,Line 3,Material quality issue,Material,19.9
+2026-08-11,Night,Line 3,Changeover / setup,Method,27.7
+2026-08-11,Morning,Line 4,Changeover / setup,Method,36.3
+2026-08-11,Morning,Line 4,Material shortage,Material,4.8
+2026-08-11,Evening,Line 4,Power fluctuation,Environment,20.6
+2026-08-11,Evening,Line 4,Operator absence,Man,8.6
+2026-08-11,Evening,Line 4,Tool wear,Machine,14.0
+2026-08-11,Night,Line 4,Equipment breakdown,Machine,59.6
+2026-08-11,Night,Line 4,High temperature,Environment,30.7
+2026-08-11,Morning,Line 5,Material shortage,Material,37.8
+2026-08-11,Night,Line 5,Material shortage,Material,23.6
+2026-08-12,Evening,Line 1,Calibration,Measurement,12.3
+2026-08-12,Night,Line 1,Tool wear,Machine,5.6
+2026-08-12,Night,Line 1,Power fluctuation,Environment,5.4
+2026-08-12,Evening,Line 2,Operator absence,Man,10.8
+2026-08-12,Morning,Line 3,Tool wear,Machine,19.9
+2026-08-12,Morning,Line 3,Tool wear,Machine,10.8
+2026-08-12,Morning,Line 3,Equipment breakdown,Machine,9.7
+2026-08-12,Morning,Line 3,Operator error,Man,18.9
+2026-08-12,Evening,Line 3,Material quality issue,Material,11.9
+2026-08-12,Evening,Line 3,Equipment breakdown,Machine,43.1
+2026-08-12,Evening,Line 3,Calibration,Measurement,16.4
+2026-08-12,Night,Line 3,Equipment breakdown,Machine,24.7
+2026-08-12,Night,Line 3,Material shortage,Material,52.3
+2026-08-12,Night,Line 3,Power fluctuation,Environment,31.5
+2026-08-12,Morning,Line 4,Operator error,Man,32.5
+2026-08-12,Morning,Line 4,Operator absence,Man,26.9
+2026-08-12,Evening,Line 4,Equipment breakdown,Machine,21.9
+2026-08-12,Evening,Line 4,Equipment breakdown,Machine,6.7
+2026-08-12,Night,Line 4,Operator absence,Man,22.2
+2026-08-12,Morning,Line 5,Material shortage,Material,20.1
+2026-08-12,Morning,Line 5,Equipment breakdown,Machine,35.3
+2026-08-12,Evening,Line 5,Material quality issue,Material,4.8
+2026-08-12,Evening,Line 5,Material shortage,Material,16.7
+2026-08-12,Night,Line 5,Equipment breakdown,Machine,12.4
+2026-08-12,Night,Line 5,Operator absence,Man,74.0
+2026-08-13,Morning,Line 1,Tool wear,Machine,4.9
+2026-08-13,Morning,Line 2,Material shortage,Material,8.2
+2026-08-13,Evening,Line 2,Equipment breakdown,Machine,72.7
+2026-08-13,Night,Line 2,Power fluctuation,Environment,21.9
+2026-08-13,Morning,Line 3,Tool wear,Machine,11.8
+2026-08-13,Evening,Line 3,Material shortage,Material,19.4
+2026-08-13,Evening,Line 3,Power fluctuation,Environment,7.5
+2026-08-13,Night,Line 3,High temperature,Environment,3.0
+2026-08-13,Night,Line 3,Material quality issue,Material,12.0
+2026-08-13,Night,Line 3,Calibration,Measurement,20.6
+2026-08-13,Morning,Line 4,Equipment breakdown,Machine,47.1
+2026-08-13,Morning,Line 4,Inspection delay,Measurement,3.0
+2026-08-13,Morning,Line 4,Operator absence,Man,14.6
+2026-08-13,Morning,Line 4,Material shortage,Material,51.1
+2026-08-13,Morning,Line 4,Power fluctuation,Environment,5.9
+2026-08-13,Evening,Line 4,Power fluctuation,Environment,13.0
+2026-08-13,Evening,Line 4,Power fluctuation,Environment,32.7
+2026-08-13,Night,Line 4,Power fluctuation,Environment,37.2
+2026-08-13,Morning,Line 5,Material shortage,Material,28.9
+2026-08-13,Morning,Line 5,Material shortage,Material,23.3
+2026-08-13,Evening,Line 5,Material shortage,Material,12.9
+2026-08-13,Evening,Line 5,Operator error,Man,10.9
+2026-08-13,Evening,Line 5,Material shortage,Material,26.8
+2026-08-13,Evening,Line 5,Material shortage,Material,17.6
+2026-08-13,Night,Line 5,Inspection delay,Measurement,3.0
+2026-08-13,Night,Line 5,Material shortage,Material,13.1
+2026-08-13,Night,Line 5,Material shortage,Material,24.8
+2026-08-13,Night,Line 5,Material shortage,Material,10.4
+2026-08-14,Evening,Line 1,Operator absence,Man,22.9
+2026-08-14,Evening,Line 1,Operator absence,Man,44.2
+2026-08-14,Night,Line 1,Power fluctuation,Environment,19.3
+2026-08-14,Night,Line 1,Power fluctuation,Environment,18.0
+2026-08-14,Morning,Line 2,Material shortage,Material,26.0
+2026-08-14,Evening,Line 2,Inspection delay,Measurement,9.4
+2026-08-14,Evening,Line 2,Changeover / setup,Method,12.3
+2026-08-14,Night,Line 2,Power fluctuation,Environment,33.1
+2026-08-14,Night,Line 2,Operator absence,Man,26.4
+2026-08-14,Night,Line 2,High temperature,Environment,10.7
+2026-08-14,Morning,Line 3,Equipment breakdown,Machine,67.7
+2026-08-14,Morning,Line 3,Changeover / setup,Method,7.7
+2026-08-14,Morning,Line 3,Power fluctuation,Environment,6.0
+2026-08-14,Evening,Line 3,High temperature,Environment,7.8
+2026-08-14,Night,Line 3,Material quality issue,Material,13.1
+2026-08-14,Morning,Line 4,Inspection delay,Measurement,3.0
+2026-08-14,Evening,Line 4,Tool wear,Machine,16.0
+2026-08-14,Night,Line 4,Operator error,Man,19.4
+2026-08-14,Night,Line 4,High temperature,Environment,17.4
+2026-08-14,Night,Line 4,Tool wear,Machine,9.4
+2026-08-14,Morning,Line 5,Changeover / setup,Method,18.1
+2026-08-14,Morning,Line 5,Equipment breakdown,Machine,20.0
+2026-08-14,Evening,Line 5,Material quality issue,Material,7.0
+2026-08-15,Morning,Line 1,Tool wear,Machine,3.7
+2026-08-15,Night,Line 1,Changeover / setup,Method,26.5
+2026-08-15,Morning,Line 2,Operator absence,Man,10.0
+2026-08-15,Evening,Line 2,Tool wear,Machine,13.4
+2026-08-15,Night,Line 2,Changeover / setup,Method,48.4
+2026-08-15,Morning,Line 3,Power fluctuation,Environment,10.9
+2026-08-15,Morning,Line 3,Power fluctuation,Environment,37.6
+2026-08-15,Evening,Line 3,Equipment breakdown,Machine,22.1
+2026-08-15,Evening,Line 3,Changeover / setup,Method,11.1
+2026-08-15,Evening,Line 3,Equipment breakdown,Machine,43.7
+2026-08-15,Night,Line 3,Material shortage,Material,49.7
+2026-08-15,Night,Line 3,Operator error,Man,9.9
+2026-08-15,Morning,Line 4,Power fluctuation,Environment,20.1
+2026-08-15,Morning,Line 4,Material shortage,Material,31.1
+2026-08-15,Morning,Line 4,Tool wear,Machine,11.9
+2026-08-15,Evening,Line 4,Equipment breakdown,Machine,30.1
+2026-08-15,Night,Line 4,Power fluctuation,Environment,9.7
+2026-08-15,Night,Line 4,Calibration,Measurement,8.4
+2026-08-15,Morning,Line 5,Inspection delay,Measurement,12.5
+2026-08-15,Evening,Line 5,Equipment breakdown,Machine,44.7
+2026-08-15,Evening,Line 5,Material quality issue,Material,24.9
+2026-08-15,Evening,Line 5,Operator absence,Man,26.5
+2026-08-15,Night,Line 5,Operator error,Man,3.8
+2026-08-16,Morning,Line 1,Operator error,Man,12.3
+2026-08-16,Evening,Line 1,Power fluctuation,Environment,21.5
+2026-08-16,Evening,Line 1,Power fluctuation,Environment,21.7
+2026-08-16,Night,Line 1,Calibration,Measurement,9.7
+2026-08-16,Night,Line 1,High temperature,Environment,4.2
+2026-08-16,Morning,Line 2,Tool wear,Machine,7.8
+2026-08-16,Morning,Line 2,High temperature,Environment,7.7
+2026-08-16,Evening,Line 2,Material shortage,Material,12.4
+2026-08-16,Night,Line 2,Operator error,Man,5.3
+2026-08-16,Night,Line 2,Equipment breakdown,Machine,26.7
+2026-08-16,Morning,Line 3,Equipment breakdown,Machine,11.3
+2026-08-16,Morning,Line 3,Changeover / setup,Method,14.9
+2026-08-16,Morning,Line 3,Inspection delay,Measurement,3.1
+2026-08-16,Evening,Line 3,High temperature,Environment,5.3
+2026-08-16,Night,Line 3,High temperature,Environment,3.0
+2026-08-16,Night,Line 3,Changeover / setup,Method,38.6
+2026-08-16,Morning,Line 4,Operator error,Man,11.6
+2026-08-16,Morning,Line 4,Material quality issue,Material,23.1
+2026-08-16,Evening,Line 4,Operator error,Man,12.8
+2026-08-16,Night,Line 4,Operator absence,Man,14.4
+2026-08-16,Morning,Line 5,Material shortage,Material,63.1
+2026-08-16,Morning,Line 5,Operator absence,Man,23.8
+2026-08-16,Evening,Line 5,Calibration,Measurement,10.9
+2026-08-16,Evening,Line 5,Material shortage,Material,12.1
+2026-08-16,Night,Line 5,Power fluctuation,Environment,17.1
+2026-08-16,Night,Line 5,Operator error,Man,8.3
+2026-08-17,Morning,Line 1,Material shortage,Material,3.8
+2026-08-17,Evening,Line 1,Material shortage,Material,10.7
+2026-08-17,Evening,Line 1,Changeover / setup,Method,31.1
+2026-08-17,Evening,Line 1,Material shortage,Material,32.4
+2026-08-17,Night,Line 1,High temperature,Environment,12.6
+2026-08-17,Morning,Line 2,Equipment breakdown,Machine,41.5
+2026-08-17,Morning,Line 2,Operator absence,Man,35.3
+2026-08-17,Night,Line 2,Calibration,Measurement,5.0
+2026-08-17,Night,Line 2,Tool wear,Machine,16.0
+2026-08-17,Morning,Line 3,High temperature,Environment,5.1
+2026-08-17,Evening,Line 3,Material shortage,Material,19.8
+2026-08-17,Evening,Line 3,Equipment breakdown,Machine,44.3
+2026-08-17,Evening,Line 3,Material shortage,Material,22.5
+2026-08-17,Morning,Line 4,Inspection delay,Measurement,3.0
+2026-08-17,Evening,Line 4,Material shortage,Material,34.9
+2026-08-17,Morning,Line 5,Operator absence,Man,30.4
+2026-08-17,Evening,Line 5,Changeover / setup,Method,7.1
+2026-08-17,Night,Line 5,Calibration,Measurement,10.6
+2026-08-17,Night,Line 5,Material shortage,Material,28.8
+2026-08-18,Night,Line 1,Operator error,Man,38.3
+2026-08-18,Morning,Line 2,Operator absence,Man,15.4
+2026-08-18,Evening,Line 2,Tool wear,Machine,17.0
+2026-08-18,Evening,Line 2,Operator absence,Man,5.4
+2026-08-18,Night,Line 2,Changeover / setup,Method,11.5
+2026-08-18,Morning,Line 3,Operator error,Man,14.4
+2026-08-18,Morning,Line 3,Inspection delay,Measurement,6.3
+2026-08-18,Evening,Line 3,Equipment breakdown,Machine,9.4
+2026-08-18,Evening,Line 3,Power fluctuation,Environment,5.2
+2026-08-18,Night,Line 3,High temperature,Environment,6.1
+2026-08-18,Night,Line 3,Equipment breakdown,Machine,29.3
+2026-08-18,Night,Line 3,Calibration,Measurement,10.2
+2026-08-18,Night,Line 3,Calibration,Measurement,13.9
+2026-08-18,Morning,Line 4,Operator absence,Man,19.7
+2026-08-18,Morning,Line 4,Inspection delay,Measurement,3.0
+2026-08-18,Evening,Line 4,Calibration,Measurement,3.0
+2026-08-18,Evening,Line 4,Operator error,Man,11.0
+2026-08-18,Evening,Line 4,Operator error,Man,24.3
+2026-08-18,Evening,Line 4,Inspection delay,Measurement,13.4
+2026-08-18,Evening,Line 4,Material shortage,Material,104.3
+2026-08-18,Night,Line 4,Inspection delay,Measurement,3.4
+2026-08-18,Night,Line 4,High temperature,Environment,15.3
+2026-08-18,Night,Line 4,Operator error,Man,7.1
+2026-08-18,Night,Line 4,Power fluctuation,Environment,6.6
+2026-08-18,Morning,Line 5,Operator absence,Man,4.4
+2026-08-18,Evening,Line 5,Operator absence,Man,8.3
+2026-08-18,Evening,Line 5,Material quality issue,Material,21.3
+2026-08-19,Morning,Line 1,Changeover / setup,Method,21.9
+2026-08-19,Morning,Line 2,Material quality issue,Material,54.6
+2026-08-19,Morning,Line 2,Operator absence,Man,13.1
+2026-08-19,Evening,Line 2,Equipment breakdown,Machine,34.9
+2026-08-19,Evening,Line 2,Tool wear,Machine,23.7
+2026-08-19,Evening,Line 2,Changeover / setup,Method,18.7
+2026-08-19,Evening,Line 2,Operator absence,Man,15.5
+2026-08-19,Morning,Line 3,Operator absence,Man,9.4
+2026-08-19,Morning,Line 3,High temperature,Environment,18.7
+2026-08-19,Morning,Line 3,Equipment breakdown,Machine,23.0
+2026-08-19,Night,Line 3,Power fluctuation,Environment,11.1
+2026-08-19,Night,Line 3,Operator error,Man,20.2
+2026-08-19,Morning,Line 4,Changeover / setup,Method,55.3
+2026-08-19,Morning,Line 4,Material shortage,Material,24.5
+2026-08-19,Morning,Line 4,Equipment breakdown,Machine,39.9
+2026-08-19,Evening,Line 4,Operator absence,Man,20.3
+2026-08-19,Night,Line 4,Operator error,Man,4.0
+2026-08-19,Morning,Line 5,Power fluctuation,Environment,23.5
+2026-08-19,Morning,Line 5,High temperature,Environment,3.7
+2026-08-19,Evening,Line 5,Operator absence,Man,19.4
+2026-08-19,Evening,Line 5,Material shortage,Material,21.3
+2026-08-19,Night,Line 5,Equipment breakdown,Machine,23.8
+2026-08-20,Evening,Line 1,Operator absence,Man,29.4
+2026-08-20,Night,Line 1,Inspection delay,Measurement,3.0
+2026-08-20,Evening,Line 2,Tool wear,Machine,8.7
+2026-08-20,Evening,Line 2,Changeover / setup,Method,17.6
+2026-08-20,Evening,Line 2,Calibration,Measurement,17.4
+2026-08-20,Evening,Line 2,Material quality issue,Material,18.6
+2026-08-20,Night,Line 2,Changeover / setup,Method,8.6
+2026-08-20,Night,Line 2,Operator error,Man,26.5
+2026-08-20,Morning,Line 3,Equipment breakdown,Machine,24.7
+2026-08-20,Evening,Line 3,High temperature,Environment,7.5
+2026-08-20,Evening,Line 3,Equipment breakdown,Machine,14.4
+2026-08-20,Evening,Line 3,Calibration,Measurement,4.9
+2026-08-20,Night,Line 3,High temperature,Environment,11.1
+2026-08-20,Night,Line 3,Tool wear,Machine,3.0
+2026-08-20,Morning,Line 4,Changeover / setup,Method,9.6
+2026-08-20,Morning,Line 4,Tool wear,Machine,10.6
+2026-08-20,Evening,Line 4,Inspection delay,Measurement,5.2
+2026-08-20,Night,Line 4,Operator absence,Man,15.0
+2026-08-20,Night,Line 4,Power fluctuation,Environment,14.4
+2026-08-20,Night,Line 4,High temperature,Environment,9.3
+2026-08-20,Night,Line 4,Equipment breakdown,Machine,54.5
+2026-08-20,Morning,Line 5,Changeover / setup,Method,10.5
+2026-08-20,Evening,Line 5,Material shortage,Material,18.8
+2026-08-20,Evening,Line 5,Material quality issue,Material,12.1
+2026-08-20,Evening,Line 5,High temperature,Environment,11.1
+2026-08-20,Evening,Line 5,Material shortage,Material,23.2
+2026-08-20,Evening,Line 5,Operator absence,Man,26.3
+2026-08-20,Night,Line 5,Changeover / setup,Method,26.7
+2026-08-20,Night,Line 5,Inspection delay,Measurement,14.2
+2026-08-20,Night,Line 5,Operator absence,Man,44.7
+2026-08-21,Evening,Line 1,Material quality issue,Material,4.3
+2026-08-21,Evening,Line 1,Material shortage,Material,31.9
+2026-08-21,Evening,Line 1,Tool wear,Machine,11.0
+2026-08-21,Night,Line 1,Material shortage,Material,6.7
+2026-08-21,Night,Line 1,Operator error,Man,6.0
+2026-08-21,Morning,Line 2,Material quality issue,Material,34.4
+2026-08-21,Morning,Line 2,Calibration,Measurement,29.5
+2026-08-21,Morning,Line 2,Material quality issue,Material,60.4
+2026-08-21,Evening,Line 2,Operator error,Man,16.1
+2026-08-21,Evening,Line 2,Tool wear,Machine,15.4
+2026-08-21,Night,Line 2,Material quality issue,Material,15.1
+2026-08-21,Night,Line 2,High temperature,Environment,5.5
+2026-08-21,Morning,Line 3,Changeover / setup,Method,10.1
+2026-08-21,Morning,Line 3,Equipment breakdown,Machine,33.0
+2026-08-21,Evening,Line 3,Tool wear,Machine,15.3
+2026-08-21,Evening,Line 3,Power fluctuation,Environment,9.3
+2026-08-21,Night,Line 3,High temperature,Environment,13.6
+2026-08-21,Night,Line 3,Power fluctuation,Environment,19.5
+2026-08-21,Night,Line 3,Material shortage,Material,16.0
+2026-08-21,Morning,Line 4,Operator error,Man,13.0
+2026-08-21,Morning,Line 4,Calibration,Measurement,26.4
+2026-08-21,Evening,Line 4,Inspection delay,Measurement,5.4
+2026-08-21,Evening,Line 4,Power fluctuation,Environment,20.8
+2026-08-21,Night,Line 4,Material quality issue,Material,17.5
+2026-08-21,Night,Line 4,Operator absence,Man,27.2
+2026-08-21,Night,Line 4,Tool wear,Machine,4.3
+2026-08-21,Morning,Line 5,Operator absence,Man,10.3
+2026-08-21,Morning,Line 5,Inspection delay,Measurement,17.7
+2026-08-21,Evening,Line 5,Operator absence,Man,5.8
+2026-08-21,Evening,Line 5,Operator error,Man,3.4
+2026-08-21,Evening,Line 5,Material shortage,Material,15.3
+2026-08-21,Evening,Line 5,Changeover / setup,Method,18.0
+2026-08-21,Night,Line 5,Tool wear,Machine,18.6
+2026-08-22,Morning,Line 1,Operator error,Man,11.5
+2026-08-22,Morning,Line 1,Material shortage,Material,29.9
+2026-08-22,Evening,Line 1,Operator absence,Man,5.3
+2026-08-22,Night,Line 1,Operator error,Man,3.0
+2026-08-22,Night,Line 1,Inspection delay,Measurement,9.6
+2026-08-22,Night,Line 1,Operator error,Man,6.6
+2026-08-22,Morning,Line 2,Material quality issue,Material,12.6
+2026-08-22,Morning,Line 2,Calibration,Measurement,18.1
+2026-08-22,Evening,Line 2,Tool wear,Machine,6.9
+2026-08-22,Night,Line 2,Operator error,Man,24.5
+2026-08-22,Morning,Line 3,Material shortage,Material,49.6
+2026-08-22,Evening,Line 3,Equipment breakdown,Machine,64.6
+2026-08-22,Night,Line 3,Material quality issue,Material,5.3
+2026-08-22,Night,Line 3,High temperature,Environment,10.3
+2026-08-22,Night,Line 3,Changeover / setup,Method,53.0
+2026-08-22,Night,Line 3,Operator error,Man,3.0
+2026-08-22,Night,Line 3,Operator absence,Man,19.3
+2026-08-22,Morning,Line 4,Tool wear,Machine,4.6
+2026-08-22,Evening,Line 4,Inspection delay,Measurement,21.5
+2026-08-22,Night,Line 4,High temperature,Environment,3.0
+2026-08-22,Night,Line 4,Changeover / setup,Method,13.6
+2026-08-22,Night,Line 4,High temperature,Environment,9.2
+2026-08-22,Morning,Line 5,Material quality issue,Material,15.6
+2026-08-22,Morning,Line 5,Operator absence,Man,37.0
+2026-08-22,Morning,Line 5,Operator error,Man,3.0
+2026-08-22,Evening,Line 5,Material quality issue,Material,16.2
+2026-08-22,Night,Line 5,Operator error,Man,14.1
+2026-08-22,Night,Line 5,Power fluctuation,Environment,49.0
+2026-08-23,Morning,Line 1,Power fluctuation,Environment,8.0
+2026-08-23,Evening,Line 1,Operator error,Man,14.3
+2026-08-23,Night,Line 1,Material shortage,Material,16.6
+2026-08-23,Night,Line 1,High temperature,Environment,14.0
+2026-08-23,Night,Line 1,Inspection delay,Measurement,3.0
+2026-08-23,Morning,Line 2,Changeover / setup,Method,17.7
+2026-08-23,Evening,Line 2,Calibration,Measurement,13.3
+2026-08-23,Evening,Line 2,Changeover / setup,Method,32.9
+2026-08-23,Night,Line 2,Operator absence,Man,8.2
+2026-08-23,Night,Line 2,Inspection delay,Measurement,4.8
+2026-08-23,Evening,Line 3,Calibration,Measurement,10.8
+2026-08-23,Evening,Line 3,Calibration,Measurement,17.0
+2026-08-23,Evening,Line 3,High temperature,Environment,14.2
+2026-08-23,Evening,Line 3,Equipment breakdown,Machine,22.5
+2026-08-23,Night,Line 3,Power fluctuation,Environment,41.7
+2026-08-23,Night,Line 3,High temperature,Environment,5.8
+2026-08-23,Night,Line 3,High temperature,Environment,8.6
+2026-08-23,Night,Line 3,Equipment breakdown,Machine,14.7
+2026-08-23,Morning,Line 4,Equipment breakdown,Machine,30.2
+2026-08-23,Morning,Line 4,Operator error,Man,20.0
+2026-08-23,Morning,Line 4,Calibration,Measurement,23.9
+2026-08-23,Evening,Line 4,Material quality issue,Material,5.6
+2026-08-23,Evening,Line 4,Operator absence,Man,7.1
+2026-08-23,Night,Line 4,Calibration,Measurement,11.3
+2026-08-23,Morning,Line 5,Material shortage,Material,20.3
+2026-08-23,Morning,Line 5,Material shortage,Material,17.3
+2026-08-23,Morning,Line 5,Changeover / setup,Method,9.0
+2026-08-23,Evening,Line 5,High temperature,Environment,10.9
+2026-08-23,Night,Line 5,Operator error,Man,17.3
+2026-08-24,Morning,Line 1,Changeover / setup,Method,28.8
+2026-08-24,Morning,Line 1,Calibration,Measurement,3.6
+2026-08-24,Evening,Line 1,Inspection delay,Measurement,8.1
+2026-08-24,Evening,Line 1,Operator error,Man,4.8
+2026-08-24,Evening,Line 1,Material quality issue,Material,31.8
+2026-08-24,Evening,Line 1,Changeover / setup,Method,3.3
+2026-08-24,Night,Line 1,Operator error,Man,9.7
+2026-08-24,Morning,Line 2,Inspection delay,Measurement,3.7
+2026-08-24,Morning,Line 2,Power fluctuation,Environment,6.1
+2026-08-24,Night,Line 2,Inspection delay,Measurement,6.9
+2026-08-24,Morning,Line 3,High temperature,Environment,31.9
+2026-08-24,Morning,Line 3,Operator absence,Man,3.0
+2026-08-24,Evening,Line 3,Operator error,Man,4.6
+2026-08-24,Evening,Line 3,Equipment breakdown,Machine,11.4
+2026-08-24,Night,Line 3,Operator error,Man,8.0
+2026-08-24,Morning,Line 4,Changeover / setup,Method,14.2
+2026-08-24,Night,Line 4,Operator error,Man,8.1
+2026-08-24,Night,Line 4,Calibration,Measurement,15.6
+2026-08-24,Night,Line 4,Operator error,Man,34.5
+2026-08-24,Morning,Line 5,Changeover / setup,Method,22.3
+2026-08-24,Evening,Line 5,Material shortage,Material,8.8
+2026-08-24,Evening,Line 5,Equipment breakdown,Machine,90.5
+2026-08-24,Evening,Line 5,Changeover / setup,Method,11.7
+2026-08-24,Evening,Line 5,High temperature,Environment,3.0
+2026-08-24,Night,Line 5,Material shortage,Material,17.8
+2026-08-24,Night,Line 5,Operator absence,Man,34.5
+2026-08-24,Night,Line 5,Material shortage,Material,10.1
+2026-08-24,Night,Line 5,Power fluctuation,Environment,24.1
+2026-08-25,Night,Line 1,Calibration,Measurement,10.8
+2026-08-25,Night,Line 1,Equipment breakdown,Machine,9.5
+2026-08-25,Morning,Line 2,Tool wear,Machine,28.9
+2026-08-25,Morning,Line 2,Operator absence,Man,11.8
+2026-08-25,Evening,Line 3,Equipment breakdown,Machine,23.1
+2026-08-25,Night,Line 3,Power fluctuation,Environment,20.8
+2026-08-25,Morning,Line 4,Operator error,Man,10.9
+2026-08-25,Evening,Line 4,Material shortage,Material,39.8
+2026-08-25,Evening,Line 4,Material shortage,Material,20.3
+2026-08-25,Morning,Line 5,Operator absence,Man,6.6
+2026-08-25,Morning,Line 5,Material quality issue,Material,13.1
+2026-08-25,Morning,Line 5,Power fluctuation,Environment,22.5
+2026-08-25,Evening,Line 5,Changeover / setup,Method,36.2
+2026-08-25,Night,Line 5,Tool wear,Machine,8.5
+2026-08-26,Morning,Line 1,Operator error,Man,8.7
+2026-08-26,Evening,Line 1,Equipment breakdown,Machine,26.0
+2026-08-26,Morning,Line 2,Operator error,Man,10.8
+2026-08-26,Morning,Line 2,Operator absence,Man,17.4
+2026-08-26,Night,Line 2,Equipment breakdown,Machine,56.9
+2026-08-26,Night,Line 2,Operator error,Man,10.9
+2026-08-26,Night,Line 2,Material shortage,Material,44.4
+2026-08-26,Morning,Line 3,Equipment breakdown,Machine,37.6
+2026-08-26,Morning,Line 3,Operator absence,Man,10.5
+2026-08-26,Morning,Line 3,Material shortage,Material,29.4
+2026-08-26,Morning,Line 3,Changeover / setup,Method,3.0
+2026-08-26,Evening,Line 3,Operator absence,Man,8.5
+2026-08-26,Evening,Line 3,Equipment breakdown,Machine,46.5
+2026-08-26,Evening,Line 3,Inspection delay,Measurement,5.2
+2026-08-26,Night,Line 3,Tool wear,Machine,21.1
+2026-08-26,Night,Line 3,Inspection delay,Measurement,15.1
+2026-08-26,Night,Line 3,Operator error,Man,9.7
+2026-08-26,Morning,Line 4,Material shortage,Material,3.7
+2026-08-26,Morning,Line 4,Changeover / setup,Method,42.8
+2026-08-26,Morning,Line 4,Inspection delay,Measurement,14.0
+2026-08-26,Morning,Line 4,Tool wear,Machine,10.9
+2026-08-26,Evening,Line 4,Power fluctuation,Environment,31.6
+2026-08-26,Night,Line 4,Inspection delay,Measurement,7.9
+2026-08-26,Morning,Line 5,Material shortage,Material,17.7
+2026-08-26,Evening,Line 5,Equipment breakdown,Machine,57.0
+2026-08-26,Night,Line 5,Changeover / setup,Method,16.2
+2026-08-26,Night,Line 5,Material shortage,Material,85.8
+2026-08-26,Night,Line 5,Material shortage,Material,6.7
+2026-08-26,Night,Line 5,Equipment breakdown,Machine,7.4
+2026-08-27,Evening,Line 1,Tool wear,Machine,17.3
+2026-08-27,Evening,Line 1,High temperature,Environment,18.1
+2026-08-27,Night,Line 1,Material quality issue,Material,30.5
+2026-08-27,Morning,Line 2,Operator absence,Man,22.6
+2026-08-27,Evening,Line 2,Operator absence,Man,5.8
+2026-08-27,Morning,Line 3,Tool wear,Machine,21.1
+2026-08-27,Morning,Line 3,Equipment breakdown,Machine,29.8
+2026-08-27,Morning,Line 3,Equipment breakdown,Machine,32.2
+2026-08-27,Night,Line 3,Operator absence,Man,3.8
+2026-08-27,Night,Line 3,Operator error,Man,15.0
+2026-08-27,Morning,Line 4,Equipment breakdown,Machine,28.9
+2026-08-27,Morning,Line 4,High temperature,Environment,9.8
+2026-08-27,Morning,Line 4,Inspection delay,Measurement,6.3
+2026-08-27,Evening,Line 4,Inspection delay,Measurement,12.3
+2026-08-27,Evening,Line 4,Calibration,Measurement,28.1
+2026-08-27,Evening,Line 4,Material shortage,Material,20.6
+2026-08-27,Night,Line 4,Tool wear,Machine,14.0
+2026-08-27,Morning,Line 5,Material shortage,Material,37.2
+2026-08-27,Morning,Line 5,Material shortage,Material,3.0
+2026-08-27,Morning,Line 5,Material shortage,Material,74.8
+2026-08-27,Morning,Line 5,Material shortage,Material,17.5
+2026-08-27,Evening,Line 5,Tool wear,Machine,15.4
+2026-08-27,Night,Line 5,Operator absence,Man,4.7
+2026-08-27,Night,Line 5,Material shortage,Material,27.2
+2026-08-28,Morning,Line 1,Operator error,Man,5.5
+2026-08-28,Morning,Line 1,Equipment breakdown,Machine,43.5
+2026-08-28,Evening,Line 1,Material quality issue,Material,6.5
+2026-08-28,Night,Line 1,Tool wear,Machine,19.8
+2026-08-28,Night,Line 1,Inspection delay,Measurement,9.9
+2026-08-28,Morning,Line 2,Equipment breakdown,Machine,12.6
+2026-08-28,Evening,Line 2,Equipment breakdown,Machine,64.8
+2026-08-28,Evening,Line 3,Changeover / setup,Method,38.4
+2026-08-28,Evening,Line 3,Equipment breakdown,Machine,28.2
+2026-08-28,Evening,Line 3,Equipment breakdown,Machine,17.9
+2026-08-28,Night,Line 3,Equipment breakdown,Machine,59.8
+2026-08-28,Morning,Line 4,Equipment breakdown,Machine,90.3
+2026-08-28,Morning,Line 4,Inspection delay,Measurement,17.9
+2026-08-28,Morning,Line 4,Inspection delay,Measurement,15.6
+2026-08-28,Evening,Line 4,Material quality issue,Material,25.8
+2026-08-28,Night,Line 4,Material quality issue,Material,12.3
+2026-08-28,Night,Line 4,Operator absence,Man,10.6
+2026-08-28,Night,Line 4,High temperature,Environment,8.6
+2026-08-28,Morning,Line 5,Changeover / setup,Method,3.6
+2026-08-28,Evening,Line 5,High temperature,Environment,8.1
+2026-08-28,Evening,Line 5,Material shortage,Material,3.0
+2026-08-28,Night,Line 5,Material shortage,Material,21.2
+2026-08-29,Morning,Line 1,High temperature,Environment,14.8
+2026-08-29,Morning,Line 1,Operator error,Man,5.2
+2026-08-29,Night,Line 1,Material shortage,Material,3.4
+2026-08-29,Night,Line 1,Equipment breakdown,Machine,5.2
+2026-08-29,Night,Line 1,Operator absence,Man,15.0
+2026-08-29,Morning,Line 2,Calibration,Measurement,9.9
+2026-08-29,Morning,Line 2,Equipment breakdown,Machine,4.2
+2026-08-29,Morning,Line 2,Inspection delay,Measurement,6.1
+2026-08-29,Evening,Line 2,Changeover / setup,Method,72.4
+2026-08-29,Evening,Line 2,Changeover / setup,Method,13.6
+2026-08-29,Evening,Line 2,Changeover / setup,Method,3.5
+2026-08-29,Night,Line 2,Tool wear,Machine,4.4
+2026-08-29,Night,Line 2,Calibration,Measurement,4.7
+2026-08-29,Morning,Line 3,Inspection delay,Measurement,9.0
+2026-08-29,Evening,Line 3,Operator absence,Man,19.6
+2026-08-29,Evening,Line 3,Equipment breakdown,Machine,39.1
+2026-08-29,Evening,Line 3,Inspection delay,Measurement,3.8
+2026-08-29,Night,Line 3,Operator error,Man,8.4
+2026-08-29,Night,Line 3,Equipment breakdown,Machine,30.0
+2026-08-29,Evening,Line 4,Changeover / setup,Method,23.5
+2026-08-29,Night,Line 4,Operator error,Man,7.1
+2026-08-29,Morning,Line 5,High temperature,Environment,3.8
+2026-08-29,Night,Line 5,Material shortage,Material,18.3
+2026-08-30,Morning,Line 1,Calibration,Measurement,11.7
+2026-08-30,Morning,Line 1,Material quality issue,Material,11.5
+2026-08-30,Evening,Line 1,Operator absence,Man,20.4
+2026-08-30,Evening,Line 1,Power fluctuation,Environment,32.0
+2026-08-30,Evening,Line 1,Inspection delay,Measurement,5.7
+2026-08-30,Night,Line 1,Operator absence,Man,26.9
+2026-08-30,Night,Line 1,Power fluctuation,Environment,45.7
+2026-08-30,Evening,Line 2,Equipment breakdown,Machine,46.5
+2026-08-30,Evening,Line 2,Inspection delay,Measurement,13.1
+2026-08-30,Night,Line 2,Operator error,Man,7.6
+2026-08-30,Night,Line 2,High temperature,Environment,7.7
+2026-08-30,Night,Line 2,Operator error,Man,23.6
+2026-08-30,Night,Line 2,Operator absence,Man,12.1
+2026-08-30,Night,Line 2,Operator absence,Man,33.1
+2026-08-30,Morning,Line 3,Calibration,Measurement,18.7
+2026-08-30,Evening,Line 3,Power fluctuation,Environment,20.2
+2026-08-30,Evening,Line 3,Power fluctuation,Environment,11.5
+2026-08-30,Night,Line 3,Operator error,Man,7.5
+2026-08-30,Night,Line 3,Inspection delay,Measurement,17.5
+2026-08-30,Morning,Line 4,Operator absence,Man,18.5
+2026-08-30,Morning,Line 4,Inspection delay,Measurement,11.3
+2026-08-30,Morning,Line 4,Operator absence,Man,30.2
+2026-08-30,Night,Line 4,Power fluctuation,Environment,28.7
+2026-08-30,Morning,Line 5,Power fluctuation,Environment,12.9
+2026-08-30,Evening,Line 5,Power fluctuation,Environment,5.9
+2026-08-30,Evening,Line 5,Changeover / setup,Method,3.9
+2026-08-30,Evening,Line 5,Inspection delay,Measurement,27.6
+2026-08-30,Night,Line 5,High temperature,Environment,9.3
+2026-08-31,Morning,Line 1,Operator error,Man,3.8
+2026-08-31,Morning,Line 1,Material shortage,Material,14.9
+2026-08-31,Morning,Line 1,Inspection delay,Measurement,9.3
+2026-08-31,Evening,Line 1,Calibration,Measurement,3.0
+2026-08-31,Evening,Line 1,Material shortage,Material,65.3
+2026-08-31,Morning,Line 2,Inspection delay,Measurement,4.9
+2026-08-31,Morning,Line 2,Changeover / setup,Method,28.6
+2026-08-31,Evening,Line 2,Material shortage,Material,17.7
+2026-08-31,Night,Line 2,Changeover / setup,Method,34.9
+2026-08-31,Night,Line 2,High temperature,Environment,26.4
+2026-08-31,Night,Line 2,Changeover / setup,Method,37.4
+2026-08-31,Morning,Line 3,Operator absence,Man,36.5
+2026-08-31,Morning,Line 3,Equipment breakdown,Machine,24.3
+2026-08-31,Morning,Line 3,High temperature,Environment,6.9
+2026-08-31,Night,Line 3,Changeover / setup,Method,19.0
+2026-08-31,Night,Line 3,Calibration,Measurement,17.8
+2026-08-31,Morning,Line 4,Material quality issue,Material,12.0
+2026-08-31,Morning,Line 4,Tool wear,Machine,14.4
+2026-08-31,Night,Line 4,Material quality issue,Material,21.0
+2026-08-31,Night,Line 4,Tool wear,Machine,3.1
+2026-08-31,Night,Line 4,Operator error,Man,21.4
+2026-08-31,Morning,Line 5,Equipment breakdown,Machine,17.7
+2026-08-31,Morning,Line 5,Inspection delay,Measurement,7.6
+2026-08-31,Morning,Line 5,Material shortage,Material,8.5
+2026-08-31,Night,Line 5,Material shortage,Material,13.1
+2026-09-01,Evening,Line 1,Tool wear,Machine,6.7
+2026-09-01,Evening,Line 1,Calibration,Measurement,3.0
+2026-09-01,Morning,Line 2,Calibration,Measurement,9.0
+2026-09-01,Morning,Line 2,Material quality issue,Material,21.5
+2026-09-01,Evening,Line 2,Operator error,Man,21.1
+2026-09-01,Evening,Line 2,Power fluctuation,Environment,10.5
+2026-09-01,Night,Line 2,Material quality issue,Material,36.6
+2026-09-01,Night,Line 2,Equipment breakdown,Machine,51.4
+2026-09-01,Morning,Line 3,Operator absence,Man,32.5
+2026-09-01,Morning,Line 3,Equipment breakdown,Machine,65.2
+2026-09-01,Morning,Line 3,Equipment breakdown,Machine,26.3
+2026-09-01,Morning,Line 3,Material shortage,Material,11.0
+2026-09-01,Evening,Line 3,Equipment breakdown,Machine,40.1
+2026-09-01,Evening,Line 3,Material quality issue,Material,3.0
+2026-09-01,Evening,Line 3,Equipment breakdown,Machine,23.3
+2026-09-01,Evening,Line 3,Inspection delay,Measurement,21.0
+2026-09-01,Night,Line 3,Operator error,Man,6.9
+2026-09-01,Night,Line 3,Material quality issue,Material,8.4
+2026-09-01,Night,Line 3,Operator error,Man,16.5
+2026-09-01,Night,Line 3,Material quality issue,Material,16.2
+2026-09-01,Night,Line 3,Changeover / setup,Method,17.3
+2026-09-01,Morning,Line 4,High temperature,Environment,6.5
+2026-09-01,Morning,Line 4,Power fluctuation,Environment,23.6
+2026-09-01,Morning,Line 4,Operator absence,Man,33.1
+2026-09-01,Evening,Line 4,Operator error,Man,6.5
+2026-09-01,Evening,Line 4,Operator absence,Man,25.4
+2026-09-01,Night,Line 4,Material quality issue,Material,17.3
+2026-09-01,Night,Line 4,Calibration,Measurement,4.1
+2026-09-01,Morning,Line 5,Operator absence,Man,20.1
+2026-09-01,Morning,Line 5,Equipment breakdown,Machine,32.6
+2026-09-01,Morning,Line 5,Calibration,Measurement,3.0
+2026-09-01,Evening,Line 5,High temperature,Environment,4.6
+2026-09-01,Evening,Line 5,Material quality issue,Material,16.4
+2026-09-01,Evening,Line 5,Material quality issue,Material,22.4
+2026-09-02,Morning,Line 1,High temperature,Environment,7.2
+2026-09-02,Evening,Line 1,Inspection delay,Measurement,6.0
+2026-09-02,Evening,Line 1,Inspection delay,Measurement,8.9
+2026-09-02,Evening,Line 1,Operator absence,Man,17.6
+2026-09-02,Night,Line 1,Material quality issue,Material,9.4
+2026-09-02,Night,Line 1,Operator absence,Man,11.3
+2026-09-02,Morning,Line 2,Operator absence,Man,63.0
+2026-09-02,Evening,Line 2,Changeover / setup,Method,63.8
+2026-09-02,Night,Line 2,Changeover / setup,Method,6.8
+2026-09-02,Night,Line 2,Operator error,Man,6.6
+2026-09-02,Night,Line 2,Equipment breakdown,Machine,17.3
+2026-09-02,Morning,Line 3,Inspection delay,Measurement,19.7
+2026-09-02,Morning,Line 3,Material shortage,Material,19.7
+2026-09-02,Morning,Line 3,Equipment breakdown,Machine,52.0
+2026-09-02,Evening,Line 3,High temperature,Environment,18.1
+2026-09-02,Evening,Line 3,Equipment breakdown,Machine,4.4
+2026-09-02,Evening,Line 3,Equipment breakdown,Machine,26.7
+2026-09-02,Evening,Line 3,High temperature,Environment,8.1
+2026-09-02,Night,Line 3,Material shortage,Material,9.3
+2026-09-02,Evening,Line 4,Material shortage,Material,12.6
+2026-09-02,Night,Line 4,High temperature,Environment,5.3
+2026-09-02,Morning,Line 5,Calibration,Measurement,22.7
+2026-09-02,Morning,Line 5,Material shortage,Material,16.0
+2026-09-02,Morning,Line 5,Power fluctuation,Environment,22.3
+2026-09-02,Morning,Line 5,High temperature,Environment,11.2
+2026-09-02,Evening,Line 5,Equipment breakdown,Machine,20.7
+2026-09-02,Evening,Line 5,Tool wear,Machine,3.0
+2026-09-02,Evening,Line 5,Changeover / setup,Method,23.7
+2026-09-02,Night,Line 5,Operator error,Man,8.3
+2026-09-03,Morning,Line 1,Inspection delay,Measurement,3.0
+2026-09-03,Morning,Line 1,Equipment breakdown,Machine,57.5
+2026-09-03,Night,Line 1,Calibration,Measurement,3.0
+2026-09-03,Night,Line 1,Inspection delay,Measurement,7.5
+2026-09-03,Morning,Line 2,Operator error,Man,15.8
+2026-09-03,Evening,Line 2,Changeover / setup,Method,15.2
+2026-09-03,Morning,Line 3,Tool wear,Machine,24.6
+2026-09-03,Evening,Line 3,Tool wear,Machine,27.6
+2026-09-03,Night,Line 3,Tool wear,Machine,33.0
+2026-09-03,Night,Line 3,Equipment breakdown,Machine,55.0
+2026-09-03,Night,Line 3,Inspection delay,Measurement,21.4
+2026-09-03,Morning,Line 4,Power fluctuation,Environment,16.7
+2026-09-03,Morning,Line 4,Operator absence,Man,4.3
+2026-09-03,Morning,Line 4,Tool wear,Machine,26.8
+2026-09-03,Morning,Line 4,Material quality issue,Material,16.6
+2026-09-03,Morning,Line 4,Material shortage,Material,28.6
+2026-09-03,Evening,Line 4,Power fluctuation,Environment,52.0
+2026-09-03,Evening,Line 4,High temperature,Environment,7.9
+2026-09-03,Night,Line 4,Operator error,Man,14.1
+2026-09-03,Morning,Line 5,Material quality issue,Material,11.1
+2026-09-03,Evening,Line 5,Tool wear,Machine,33.6
+2026-09-03,Night,Line 5,Calibration,Measurement,10.6
+2026-09-04,Morning,Line 1,Equipment breakdown,Machine,38.4
+2026-09-04,Night,Line 1,Calibration,Measurement,9.6
+2026-09-04,Morning,Line 2,High temperature,Environment,14.6
+2026-09-04,Morning,Line 2,Tool wear,Machine,17.1
+2026-09-04,Evening,Line 2,Tool wear,Machine,5.6
+2026-09-04,Night,Line 2,Changeover / setup,Method,111.6
+2026-09-04,Night,Line 2,Changeover / setup,Method,4.0
+2026-09-04,Night,Line 2,Equipment breakdown,Machine,38.4
+2026-09-04,Night,Line 2,Equipment breakdown,Machine,66.7
+2026-09-04,Night,Line 2,Operator error,Man,17.8
+2026-09-04,Morning,Line 3,Tool wear,Machine,5.8
+2026-09-04,Evening,Line 3,Equipment breakdown,Machine,11.0
+2026-09-04,Evening,Line 3,Equipment breakdown,Machine,19.8
+2026-09-04,Evening,Line 3,Operator absence,Man,12.0
+2026-09-04,Evening,Line 3,Tool wear,Machine,8.8
+2026-09-04,Night,Line 3,Equipment breakdown,Machine,62.1
+2026-09-04,Morning,Line 4,Calibration,Measurement,6.3
+2026-09-04,Morning,Line 4,High temperature,Environment,3.2
+2026-09-04,Morning,Line 4,Inspection delay,Measurement,10.5
+2026-09-04,Night,Line 4,Power fluctuation,Environment,11.1
+2026-09-04,Night,Line 4,Equipment breakdown,Machine,25.0
+2026-09-04,Morning,Line 5,Material shortage,Material,44.9
+2026-09-04,Morning,Line 5,Equipment breakdown,Machine,5.0
+2026-09-04,Evening,Line 5,Equipment breakdown,Machine,56.6
+2026-09-04,Evening,Line 5,Tool wear,Machine,3.0
+2026-09-04,Evening,Line 5,Tool wear,Machine,20.2
+2026-09-04,Night,Line 5,Material quality issue,Material,12.2
+2026-09-04,Night,Line 5,Tool wear,Machine,5.2
+2026-09-04,Night,Line 5,Tool wear,Machine,25.3
+2026-09-05,Morning,Line 1,Tool wear,Machine,10.3
+2026-09-05,Morning,Line 1,Operator error,Man,21.6
+2026-09-05,Morning,Line 1,Changeover / setup,Method,24.6
+2026-09-05,Night,Line 1,Operator absence,Man,12.8
+2026-09-05,Night,Line 1,Tool wear,Machine,3.9
+2026-09-05,Night,Line 1,Material quality issue,Material,17.5
+2026-09-05,Morning,Line 2,Power fluctuation,Environment,14.6
+2026-09-05,Evening,Line 2,Equipment breakdown,Machine,8.5
+2026-09-05,Evening,Line 2,Material shortage,Material,26.4
+2026-09-05,Night,Line 2,Calibration,Measurement,24.4
+2026-09-05,Morning,Line 3,Changeover / setup,Method,6.9
+2026-09-05,Morning,Line 3,Equipment breakdown,Machine,26.3
+2026-09-05,Evening,Line 3,Material quality issue,Material,3.0
+2026-09-05,Evening,Line 3,Equipment breakdown,Machine,16.4
+2026-09-05,Evening,Line 3,Material shortage,Material,30.1
+2026-09-05,Night,Line 3,Operator error,Man,11.1
+2026-09-05,Night,Line 3,Calibration,Measurement,5.4
+2026-09-05,Morning,Line 4,Operator absence,Man,19.0
+2026-09-05,Morning,Line 4,Inspection delay,Measurement,7.9
+2026-09-05,Morning,Line 4,Material quality issue,Material,31.0
+2026-09-05,Evening,Line 4,Material shortage,Material,58.1
+2026-09-05,Night,Line 4,Inspection delay,Measurement,13.7
+2026-09-05,Morning,Line 5,Tool wear,Machine,18.1
+2026-09-05,Evening,Line 5,Tool wear,Machine,3.9
+2026-09-05,Night,Line 5,Operator error,Man,4.1
+2026-09-05,Night,Line 5,Equipment breakdown,Machine,18.7
+2026-09-06,Morning,Line 1,Power fluctuation,Environment,18.0
+2026-09-06,Morning,Line 1,Inspection delay,Measurement,3.0
+2026-09-06,Morning,Line 1,Changeover / setup,Method,12.5
+2026-09-06,Evening,Line 1,Material quality issue,Material,16.5
+2026-09-06,Night,Line 1,Material quality issue,Material,29.8
+2026-09-06,Night,Line 1,Operator error,Man,13.2
+2026-09-06,Night,Line 1,High temperature,Environment,19.2
+2026-09-06,Morning,Line 2,Changeover / setup,Method,9.0
+2026-09-06,Evening,Line 2,Changeover / setup,Method,43.9
+2026-09-06,Night,Line 2,Changeover / setup,Method,18.2
+2026-09-06,Night,Line 2,Material shortage,Material,10.5
+2026-09-06,Morning,Line 3,Calibration,Measurement,28.3
+2026-09-06,Morning,Line 3,Changeover / setup,Method,60.2
+2026-09-06,Evening,Line 3,Equipment breakdown,Machine,53.4
+2026-09-06,Evening,Line 3,Inspection delay,Measurement,21.7
+2026-09-06,Evening,Line 3,Changeover / setup,Method,26.0
+2026-09-06,Evening,Line 3,Material quality issue,Material,32.7
+2026-09-06,Evening,Line 3,Equipment breakdown,Machine,32.1
+2026-09-06,Night,Line 3,Power fluctuation,Environment,24.2
+2026-09-06,Night,Line 3,Operator error,Man,4.1
+2026-09-06,Night,Line 3,Calibration,Measurement,13.6
+2026-09-06,Night,Line 3,Equipment breakdown,Machine,31.9
+2026-09-06,Morning,Line 4,Changeover / setup,Method,3.1
+2026-09-06,Evening,Line 4,Tool wear,Machine,4.6
+2026-09-06,Evening,Line 4,Changeover / setup,Method,36.0
+2026-09-06,Morning,Line 5,High temperature,Environment,4.5
+2026-09-06,Morning,Line 5,Equipment breakdown,Machine,66.8
+2026-09-06,Evening,Line 5,Material quality issue,Material,5.8
+2026-09-06,Evening,Line 5,Material shortage,Material,7.2
+2026-09-06,Night,Line 5,High temperature,Environment,18.0
+2026-09-06,Night,Line 5,Operator error,Man,33.7
+2026-09-06,Night,Line 5,Changeover / setup,Method,7.1
+2026-09-07,Morning,Line 1,Inspection delay,Measurement,4.3
+2026-09-07,Morning,Line 1,Changeover / setup,Method,21.4
+2026-09-07,Morning,Line 1,Power fluctuation,Environment,5.6
+2026-09-07,Night,Line 1,Operator error,Man,8.2
+2026-09-07,Night,Line 1,Calibration,Measurement,12.1
+2026-09-07,Morning,Line 2,Material quality issue,Material,3.0
+2026-09-07,Evening,Line 2,High temperature,Environment,23.3
+2026-09-07,Night,Line 2,Material quality issue,Material,42.8
+2026-09-07,Night,Line 2,Material shortage,Material,30.5
+2026-09-07,Morning,Line 3,Equipment breakdown,Machine,45.6
+2026-09-07,Morning,Line 3,Material quality issue,Material,50.0
+2026-09-07,Morning,Line 3,Operator absence,Man,5.4
+2026-09-07,Evening,Line 3,High temperature,Environment,6.6
+2026-09-07,Evening,Line 3,Equipment breakdown,Machine,29.7
+2026-09-07,Evening,Line 3,High temperature,Environment,18.4
+2026-09-07,Night,Line 3,Operator error,Man,3.0
+2026-09-07,Morning,Line 4,Material quality issue,Material,28.1
+2026-09-07,Morning,Line 4,Operator error,Man,3.3
+2026-09-07,Evening,Line 4,Calibration,Measurement,10.9
+2026-09-07,Evening,Line 4,Equipment breakdown,Machine,18.9
+2026-09-07,Night,Line 4,Operator absence,Man,21.3
+2026-09-07,Night,Line 4,Equipment breakdown,Machine,46.1
+2026-09-07,Night,Line 4,Tool wear,Machine,3.0
+2026-09-07,Evening,Line 5,Calibration,Measurement,11.8
+2026-09-07,Evening,Line 5,Equipment breakdown,Machine,50.9
+2026-09-07,Night,Line 5,Material quality issue,Material,6.2
+2026-09-08,Morning,Line 1,Calibration,Measurement,3.8
+2026-09-08,Morning,Line 1,Material quality issue,Material,19.2
+2026-09-08,Evening,Line 1,Calibration,Measurement,13.5
+2026-09-08,Night,Line 1,Equipment breakdown,Machine,7.8
+2026-09-08,Night,Line 1,Material shortage,Material,46.8
+2026-09-08,Night,Line 1,Power fluctuation,Environment,16.9
+2026-09-08,Morning,Line 2,Operator absence,Man,31.1
+2026-09-08,Morning,Line 2,Inspection delay,Measurement,16.9
+2026-09-08,Morning,Line 2,Equipment breakdown,Machine,24.6
+2026-09-08,Evening,Line 2,High temperature,Environment,8.4
+2026-09-08,Evening,Line 2,Tool wear,Machine,3.0
+2026-09-08,Night,Line 2,Operator error,Man,36.8
+2026-09-08,Morning,Line 3,Tool wear,Machine,6.2
+2026-09-08,Morning,Line 3,Changeover / setup,Method,75.2
+2026-09-08,Morning,Line 3,Equipment breakdown,Machine,48.0
+2026-09-08,Night,Line 3,Operator error,Man,9.4
+2026-09-08,Morning,Line 4,Material quality issue,Material,13.4
+2026-09-08,Morning,Line 4,Equipment breakdown,Machine,13.3
+2026-09-08,Evening,Line 4,Calibration,Measurement,17.1
+2026-09-08,Evening,Line 4,Equipment breakdown,Machine,33.2
+2026-09-08,Evening,Line 4,Changeover / setup,Method,18.4
+2026-09-08,Evening,Line 4,Tool wear,Machine,6.1
+2026-09-08,Night,Line 4,Operator error,Man,6.1
+2026-09-08,Night,Line 4,Operator error,Man,7.5
+2026-09-08,Morning,Line 5,Equipment breakdown,Machine,43.3
+2026-09-08,Evening,Line 5,Material quality issue,Material,28.4
+2026-09-09,Morning,Line 1,Inspection delay,Measurement,14.5
+2026-09-09,Night,Line 1,Calibration,Measurement,6.1
+2026-09-09,Morning,Line 2,Material shortage,Material,18.9
+2026-09-09,Morning,Line 2,Operator error,Man,9.6
+2026-09-09,Morning,Line 2,Changeover / setup,Method,18.1
+2026-09-09,Evening,Line 2,Changeover / setup,Method,11.8
+2026-09-09,Evening,Line 2,Power fluctuation,Environment,20.2
+2026-09-09,Morning,Line 3,Equipment breakdown,Machine,12.1
+2026-09-09,Night,Line 3,Power fluctuation,Environment,27.1
+2026-09-09,Night,Line 3,Equipment breakdown,Machine,25.6
+2026-09-09,Night,Line 3,Tool wear,Machine,27.9
+2026-09-09,Night,Line 3,Operator absence,Man,35.8
+2026-09-09,Morning,Line 4,Operator error,Man,17.4
+2026-09-09,Morning,Line 4,High temperature,Environment,12.5
+2026-09-09,Morning,Line 5,Operator error,Man,10.7
+2026-09-09,Morning,Line 5,Operator error,Man,9.9
+2026-09-09,Night,Line 5,Operator error,Man,3.4
+2026-09-10,Morning,Line 1,Calibration,Measurement,15.7
+2026-09-10,Morning,Line 1,Inspection delay,Measurement,12.2
+2026-09-10,Night,Line 1,Equipment breakdown,Machine,16.0
+2026-09-10,Night,Line 2,Operator error,Man,8.2
+2026-09-10,Night,Line 2,Changeover / setup,Method,31.6
+2026-09-10,Night,Line 2,Operator absence,Man,10.2
+2026-09-10,Morning,Line 3,Inspection delay,Measurement,7.8
+2026-09-10,Evening,Line 3,Equipment breakdown,Machine,60.0
+2026-09-10,Evening,Line 3,Equipment breakdown,Machine,48.6
+2026-09-10,Evening,Line 3,Operator error,Man,15.6
+2026-09-10,Night,Line 3,Inspection delay,Measurement,32.8
+2026-09-10,Night,Line 3,Equipment breakdown,Machine,22.2
+2026-09-10,Morning,Line 4,Operator absence,Man,8.1
+2026-09-10,Morning,Line 4,Inspection delay,Measurement,4.9
+2026-09-10,Morning,Line 4,Power fluctuation,Environment,7.2
+2026-09-10,Morning,Line 4,Calibration,Measurement,11.2
+2026-09-10,Evening,Line 4,Material quality issue,Material,6.6
+2026-09-10,Evening,Line 4,Operator absence,Man,33.0
+2026-09-10,Evening,Line 4,Material shortage,Material,13.5
+2026-09-10,Morning,Line 5,Power fluctuation,Environment,7.3
+2026-09-10,Morning,Line 5,Operator error,Man,17.8
+2026-09-10,Night,Line 5,High temperature,Environment,13.9
+2026-09-10,Night,Line 5,Material shortage,Material,41.9
+2026-09-11,Morning,Line 1,Operator absence,Man,7.4
+2026-09-11,Morning,Line 1,Operator error,Man,8.4
+2026-09-11,Evening,Line 1,High temperature,Environment,8.1
+2026-09-11,Night,Line 1,Equipment breakdown,Machine,59.5
+2026-09-11,Night,Line 1,Calibration,Measurement,12.9
+2026-09-11,Morning,Line 2,Operator absence,Man,38.0
+2026-09-11,Morning,Line 2,Power fluctuation,Environment,8.0
+2026-09-11,Morning,Line 2,Calibration,Measurement,11.3
+2026-09-11,Night,Line 2,High temperature,Environment,17.8
+2026-09-11,Night,Line 2,Calibration,Measurement,17.3
+2026-09-11,Night,Line 2,Changeover / setup,Method,22.1
+2026-09-11,Morning,Line 3,Changeover / setup,Method,20.7
+2026-09-11,Morning,Line 3,Operator absence,Man,4.4
+2026-09-11,Morning,Line 3,Operator absence,Man,5.0
+2026-09-11,Evening,Line 3,Material quality issue,Material,17.2
+2026-09-11,Night,Line 3,Changeover / setup,Method,6.8
+2026-09-11,Morning,Line 4,Operator absence,Man,32.1
+2026-09-11,Night,Line 4,Operator error,Man,3.0
+2026-09-11,Morning,Line 5,Changeover / setup,Method,42.2
+2026-09-11,Morning,Line 5,High temperature,Environment,16.8
+2026-09-11,Evening,Line 5,Changeover / setup,Method,17.5
+2026-09-11,Evening,Line 5,Material shortage,Material,15.8
+2026-09-11,Evening,Line 5,Material shortage,Material,23.9
+2026-09-11,Night,Line 5,Changeover / setup,Method,23.5
+2026-09-12,Morning,Line 1,Tool wear,Machine,39.5
+2026-09-12,Night,Line 1,Calibration,Measurement,13.2
+2026-09-12,Night,Line 1,Material shortage,Material,9.7
+2026-09-12,Morning,Line 2,Power fluctuation,Environment,13.7
+2026-09-12,Evening,Line 2,Operator absence,Man,9.5
+2026-09-12,Night,Line 2,Tool wear,Machine,15.6
+2026-09-12,Night,Line 3,Changeover / setup,Method,22.3
+2026-09-12,Night,Line 3,Tool wear,Machine,8.6
+2026-09-12,Night,Line 3,Operator absence,Man,16.4
+2026-09-12,Night,Line 3,Operator error,Man,21.0
+2026-09-12,Evening,Line 4,Calibration,Measurement,17.3
+2026-09-12,Evening,Line 4,Material shortage,Material,7.5
+2026-09-12,Evening,Line 4,Operator error,Man,9.1
+2026-09-12,Evening,Line 5,High temperature,Environment,31.9
+2026-09-12,Evening,Line 5,High temperature,Environment,3.9
+2026-09-13,Evening,Line 1,Tool wear,Machine,3.1
+2026-09-13,Evening,Line 1,Material shortage,Material,16.8
+2026-09-13,Evening,Line 1,Tool wear,Machine,15.2
+2026-09-13,Evening,Line 1,Equipment breakdown,Machine,42.8
+2026-09-13,Night,Line 1,Changeover / setup,Method,25.6
+2026-09-13,Night,Line 1,Power fluctuation,Environment,52.6
+2026-09-13,Evening,Line 2,Calibration,Measurement,17.4
+2026-09-13,Night,Line 2,Operator error,Man,5.5
+2026-09-13,Night,Line 2,Power fluctuation,Environment,10.7
+2026-09-13,Morning,Line 3,Equipment breakdown,Machine,5.7
+2026-09-13,Morning,Line 3,Changeover / setup,Method,27.4
+2026-09-13,Morning,Line 3,Operator error,Man,5.3
+2026-09-13,Evening,Line 3,Tool wear,Machine,10.5
+2026-09-13,Night,Line 3,Operator absence,Man,17.6
+2026-09-13,Night,Line 3,Material quality issue,Material,14.4
+2026-09-13,Night,Line 3,Operator error,Man,15.2
+2026-09-13,Morning,Line 4,Changeover / setup,Method,20.8
+2026-09-13,Evening,Line 4,Operator absence,Man,8.3
+2026-09-13,Night,Line 4,Calibration,Measurement,3.5
+2026-09-13,Morning,Line 5,Material quality issue,Material,12.8
+2026-09-13,Evening,Line 5,Material shortage,Material,10.9
+2026-09-13,Evening,Line 5,Operator absence,Man,12.3
+2026-09-13,Night,Line 5,Material shortage,Material,11.7
+2026-09-13,Night,Line 5,Operator absence,Man,14.0
+2026-09-13,Night,Line 5,Power fluctuation,Environment,6.7
+2026-09-14,Morning,Line 1,Material shortage,Material,34.0
+2026-09-14,Evening,Line 2,Tool wear,Machine,5.6
+2026-09-14,Evening,Line 2,Operator absence,Man,12.5
+2026-09-14,Evening,Line 2,Equipment breakdown,Machine,52.2
+2026-09-14,Night,Line 2,Equipment breakdown,Machine,38.1
+2026-09-14,Night,Line 2,Equipment breakdown,Machine,31.5
+2026-09-14,Evening,Line 3,Changeover / setup,Method,29.7
+2026-09-14,Evening,Line 3,Material shortage,Material,22.1
+2026-09-14,Evening,Line 3,Inspection delay,Measurement,3.0
+2026-09-14,Evening,Line 3,Operator absence,Man,15.7
+2026-09-14,Night,Line 3,Equipment breakdown,Machine,22.3
+2026-09-14,Night,Line 3,Material quality issue,Material,36.6
+2026-09-14,Evening,Line 4,Operator error,Man,12.1
+2026-09-14,Evening,Line 4,High temperature,Environment,3.8
+2026-09-14,Evening,Line 4,Calibration,Measurement,20.7
+2026-09-14,Morning,Line 5,Material shortage,Material,20.9
+2026-09-14,Morning,Line 5,Equipment breakdown,Machine,10.7
+2026-09-14,Evening,Line 5,Inspection delay,Measurement,6.6
+2026-09-14,Evening,Line 5,Power fluctuation,Environment,20.5
+2026-09-14,Evening,Line 5,Material shortage,Material,34.8
+2026-09-14,Night,Line 5,Material shortage,Material,72.1
+2026-09-15,Evening,Line 1,Tool wear,Machine,35.9
+2026-09-15,Evening,Line 1,Tool wear,Machine,34.3
+2026-09-15,Evening,Line 1,Inspection delay,Measurement,11.7
+2026-09-15,Night,Line 1,Operator absence,Man,10.1
+2026-09-15,Night,Line 1,Operator error,Man,9.3
+2026-09-15,Night,Line 1,Operator absence,Man,14.3
+2026-09-15,Morning,Line 2,Inspection delay,Measurement,13.9
+2026-09-15,Evening,Line 2,Changeover / setup,Method,40.4
+2026-09-15,Evening,Line 2,Changeover / setup,Method,10.5
+2026-09-15,Evening,Line 2,Operator error,Man,20.6
+2026-09-15,Morning,Line 3,Tool wear,Machine,19.2
+2026-09-15,Morning,Line 3,Equipment breakdown,Machine,33.1
+2026-09-15,Evening,Line 3,Material quality issue,Material,21.2
+2026-09-15,Evening,Line 3,Power fluctuation,Environment,7.3
+2026-09-15,Night,Line 3,Calibration,Measurement,14.7
+2026-09-15,Night,Line 3,Power fluctuation,Environment,7.4
+2026-09-15,Night,Line 3,High temperature,Environment,14.7
+2026-09-15,Morning,Line 4,Power fluctuation,Environment,6.4
+2026-09-15,Morning,Line 4,High temperature,Environment,9.5
+2026-09-15,Morning,Line 4,Calibration,Measurement,32.0
+2026-09-15,Evening,Line 4,High temperature,Environment,6.5
+2026-09-15,Evening,Line 4,Material quality issue,Material,22.3
+2026-09-15,Evening,Line 4,Equipment breakdown,Machine,58.4
+2026-09-15,Evening,Line 4,Material quality issue,Material,30.2
+2026-09-15,Evening,Line 4,Inspection delay,Measurement,13.8
+2026-09-15,Evening,Line 4,Equipment breakdown,Machine,39.6
+2026-09-15,Morning,Line 5,Material shortage,Material,7.1
+2026-09-15,Night,Line 5,Changeover / setup,Method,43.4
+2026-09-15,Night,Line 5,Material shortage,Material,10.1
+2026-09-15,Night,Line 5,Tool wear,Machine,10.3
+2026-09-15,Night,Line 5,Material shortage,Material,3.9
+2026-09-15,Night,Line 5,Material shortage,Material,16.4
+2026-09-16,Morning,Line 1,Calibration,Measurement,19.0
+2026-09-16,Evening,Line 1,Material shortage,Material,14.1
+2026-09-16,Evening,Line 1,Operator error,Man,23.6
+2026-09-16,Night,Line 1,Equipment breakdown,Machine,41.0
+2026-09-16,Night,Line 1,Operator absence,Man,55.3
+2026-09-16,Evening,Line 2,Calibration,Measurement,8.0
+2026-09-16,Night,Line 2,Operator error,Man,14.9
+2026-09-16,Morning,Line 3,High temperature,Environment,3.0
+2026-09-16,Evening,Line 3,Material shortage,Material,36.6
+2026-09-16,Evening,Line 3,Inspection delay,Measurement,11.1
+2026-09-16,Morning,Line 4,Changeover / setup,Method,20.2
+2026-09-16,Evening,Line 4,Calibration,Measurement,24.4
+2026-09-16,Evening,Line 4,Calibration,Measurement,7.0
+2026-09-16,Morning,Line 5,Material shortage,Material,24.3
+2026-09-16,Morning,Line 5,Power fluctuation,Environment,11.5
+2026-09-16,Morning,Line 5,Operator error,Man,27.8
+2026-09-16,Evening,Line 5,Material quality issue,Material,11.7
+2026-09-16,Evening,Line 5,Inspection delay,Measurement,5.3
+2026-09-17,Morning,Line 1,Inspection delay,Measurement,8.0
+2026-09-17,Evening,Line 1,Material shortage,Material,18.8
+2026-09-17,Evening,Line 1,Calibration,Measurement,40.8
+2026-09-17,Evening,Line 1,Calibration,Measurement,19.2
+2026-09-17,Night,Line 1,Power fluctuation,Environment,24.0
+2026-09-17,Night,Line 1,Tool wear,Machine,7.3
+2026-09-17,Night,Line 1,Operator absence,Man,5.0
+2026-09-17,Morning,Line 2,Changeover / setup,Method,4.2
+2026-09-17,Evening,Line 2,Calibration,Measurement,13.8
+2026-09-17,Evening,Line 2,Operator error,Man,22.7
+2026-09-17,Night,Line 2,High temperature,Environment,25.9
+2026-09-17,Night,Line 2,Operator error,Man,6.4
+2026-09-17,Morning,Line 3,Calibration,Measurement,13.4
+2026-09-17,Evening,Line 3,Equipment breakdown,Machine,20.1
+2026-09-17,Evening,Line 3,Equipment breakdown,Machine,43.9
+2026-09-17,Evening,Line 3,High temperature,Environment,11.6
+2026-09-17,Night,Line 3,Equipment breakdown,Machine,103.8
+2026-09-17,Night,Line 3,Calibration,Measurement,3.0
+2026-09-17,Morning,Line 4,Power fluctuation,Environment,24.4
+2026-09-17,Morning,Line 4,Power fluctuation,Environment,25.1
+2026-09-17,Evening,Line 4,Tool wear,Machine,3.7
+2026-09-17,Night,Line 4,Operator error,Man,5.7
+2026-09-17,Night,Line 4,Material shortage,Material,22.0
+2026-09-17,Morning,Line 5,Material shortage,Material,4.9
+2026-09-17,Morning,Line 5,Changeover / setup,Method,41.2
+2026-09-17,Morning,Line 5,Power fluctuation,Environment,3.0
+2026-09-17,Evening,Line 5,Equipment breakdown,Machine,10.3
+2026-09-18,Morning,Line 1,Calibration,Measurement,3.0
+2026-09-18,Evening,Line 1,Equipment breakdown,Machine,65.6
+2026-09-18,Night,Line 1,Operator error,Man,14.9
+2026-09-18,Morning,Line 2,Changeover / setup,Method,3.0
+2026-09-18,Evening,Line 2,Power fluctuation,Environment,4.1
+2026-09-18,Evening,Line 2,Operator error,Man,9.6
+2026-09-18,Evening,Line 2,Inspection delay,Measurement,6.8
+2026-09-18,Evening,Line 2,High temperature,Environment,10.0
+2026-09-18,Night,Line 2,Material shortage,Material,36.7
+2026-09-18,Night,Line 2,Operator error,Man,7.8
+2026-09-18,Night,Line 2,Operator absence,Man,10.2
+2026-09-18,Morning,Line 3,Material quality issue,Material,32.7
+2026-09-18,Morning,Line 3,High temperature,Environment,12.7
+2026-09-18,Morning,Line 3,Operator error,Man,10.1
+2026-09-18,Evening,Line 3,Inspection delay,Measurement,21.9
+2026-09-18,Evening,Line 3,Equipment breakdown,Machine,37.8
+2026-09-18,Evening,Line 3,Material quality issue,Material,9.2
+2026-09-18,Evening,Line 3,Changeover / setup,Method,4.4
+2026-09-18,Night,Line 3,Operator error,Man,6.1
+2026-09-18,Night,Line 3,Equipment breakdown,Machine,40.2
+2026-09-18,Night,Line 3,High temperature,Environment,20.8
+2026-09-18,Morning,Line 4,Inspection delay,Measurement,6.1
+2026-09-18,Morning,Line 4,Equipment breakdown,Machine,23.9
+2026-09-18,Morning,Line 4,Calibration,Measurement,13.2
+2026-09-18,Evening,Line 4,Changeover / setup,Method,19.2
+2026-09-18,Evening,Line 4,Calibration,Measurement,16.3
+2026-09-18,Evening,Line 4,Calibration,Measurement,32.2
+2026-09-18,Night,Line 4,Operator absence,Man,24.6
+2026-09-18,Evening,Line 5,Power fluctuation,Environment,13.5
+2026-09-18,Night,Line 5,Material shortage,Material,74.0
+2026-09-18,Night,Line 5,Operator error,Man,18.7
+2026-09-19,Morning,Line 1,Inspection delay,Measurement,9.3
+2026-09-19,Morning,Line 1,Operator absence,Man,10.9
+2026-09-19,Morning,Line 1,Calibration,Measurement,7.9
+2026-09-19,Morning,Line 1,Equipment breakdown,Machine,41.1
+2026-09-19,Evening,Line 1,Power fluctuation,Environment,14.7
+2026-09-19,Night,Line 1,High temperature,Environment,8.8
+2026-09-19,Night,Line 1,Operator absence,Man,23.0
+2026-09-19,Morning,Line 2,Material shortage,Material,7.6
+2026-09-19,Morning,Line 2,Inspection delay,Measurement,5.5
+2026-09-19,Morning,Line 2,Changeover / setup,Method,11.0
+2026-09-19,Evening,Line 2,Operator error,Man,9.8
+2026-09-19,Night,Line 2,Calibration,Measurement,4.6
+2026-09-19,Night,Line 2,Inspection delay,Measurement,9.6
+2026-09-19,Night,Line 2,Operator error,Man,7.4
+2026-09-19,Morning,Line 3,High temperature,Environment,10.6
+2026-09-19,Morning,Line 3,High temperature,Environment,9.6
+2026-09-19,Morning,Line 3,Equipment breakdown,Machine,67.6
+2026-09-19,Morning,Line 3,Material quality issue,Material,30.2
+2026-09-19,Evening,Line 3,Equipment breakdown,Machine,118.1
+2026-09-19,Evening,Line 3,High temperature,Environment,5.9
+2026-09-19,Evening,Line 3,Power fluctuation,Environment,31.8
+2026-09-19,Night,Line 3,Material quality issue,Material,29.5
+2026-09-19,Morning,Line 4,Calibration,Measurement,4.9
+2026-09-19,Morning,Line 4,Changeover / setup,Method,44.5
+2026-09-19,Morning,Line 4,Material quality issue,Material,55.1
+2026-09-19,Morning,Line 4,Changeover / setup,Method,38.0
+2026-09-19,Evening,Line 4,Material quality issue,Material,24.4
+2026-09-19,Evening,Line 4,Inspection delay,Measurement,9.8
+2026-09-19,Morning,Line 5,Calibration,Measurement,35.5
+2026-09-19,Morning,Line 5,Operator absence,Man,19.2
+2026-09-19,Morning,Line 5,Material shortage,Material,14.3
+2026-09-19,Morning,Line 5,Operator absence,Man,7.4
+2026-09-19,Morning,Line 5,Material quality issue,Material,37.3
+2026-09-19,Night,Line 5,Power fluctuation,Environment,11.4
+2026-09-19,Night,Line 5,Material shortage,Material,30.9
+2026-09-20,Morning,Line 1,Calibration,Measurement,24.7
+2026-09-20,Evening,Line 1,Calibration,Measurement,9.4
+2026-09-20,Night,Line 1,Changeover / setup,Method,23.1
+2026-09-20,Night,Line 1,Power fluctuation,Environment,21.1
+2026-09-20,Morning,Line 2,Inspection delay,Measurement,7.9
+2026-09-20,Morning,Line 2,Calibration,Measurement,6.5
+2026-09-20,Evening,Line 2,Changeover / setup,Method,8.1
+2026-09-20,Evening,Line 2,Operator error,Man,13.5
+2026-09-20,Night,Line 2,Tool wear,Machine,24.5
+2026-09-20,Night,Line 2,Calibration,Measurement,5.8
+2026-09-20,Night,Line 2,Inspection delay,Measurement,7.7
+2026-09-20,Morning,Line 3,Operator absence,Man,4.8
+2026-09-20,Morning,Line 3,Material shortage,Material,36.7
+2026-09-20,Morning,Line 3,Material shortage,Material,34.7
+2026-09-20,Evening,Line 3,Tool wear,Machine,19.4
+2026-09-20,Evening,Line 3,Operator error,Man,15.4
+2026-09-20,Evening,Line 3,Calibration,Measurement,10.7
+2026-09-20,Evening,Line 3,Calibration,Measurement,4.1
+2026-09-20,Morning,Line 4,Operator error,Man,25.5
+2026-09-20,Morning,Line 4,High temperature,Environment,8.5
+2026-09-20,Evening,Line 4,Inspection delay,Measurement,16.5
+2026-09-20,Morning,Line 5,Operator absence,Man,55.3
+2026-09-20,Morning,Line 5,Power fluctuation,Environment,28.0
+2026-09-20,Evening,Line 5,Equipment breakdown,Machine,14.9
+2026-09-20,Evening,Line 5,Inspection delay,Measurement,21.2
+2026-09-20,Night,Line 5,Material shortage,Material,18.8
+2026-09-20,Night,Line 5,Operator absence,Man,41.8
+2026-09-20,Night,Line 5,Calibration,Measurement,15.2
+2026-09-20,Night,Line 5,Operator error,Man,3.5
+2026-09-21,Morning,Line 1,Tool wear,Machine,27.8
+2026-09-21,Morning,Line 1,Changeover / setup,Method,10.1
+2026-09-21,Morning,Line 1,Calibration,Measurement,9.6
+2026-09-21,Evening,Line 1,Equipment breakdown,Machine,43.3
+2026-09-21,Night,Line 1,Operator error,Man,13.4
+2026-09-21,Night,Line 1,Operator absence,Man,39.2
+2026-09-21,Night,Line 1,Operator absence,Man,11.9
+2026-09-21,Evening,Line 2,Operator error,Man,12.0
+2026-09-21,Evening,Line 2,Operator error,Man,10.8
+2026-09-21,Night,Line 2,Power fluctuation,Environment,19.6
+2026-09-21,Night,Line 2,High temperature,Environment,11.0
+2026-09-21,Morning,Line 3,Power fluctuation,Environment,20.2
+2026-09-21,Morning,Line 3,Changeover / setup,Method,36.4
+2026-09-21,Morning,Line 3,Equipment breakdown,Machine,54.3
+2026-09-21,Evening,Line 3,Equipment breakdown,Machine,46.7
+2026-09-21,Evening,Line 3,Operator error,Man,6.6
+2026-09-21,Evening,Line 3,Equipment breakdown,Machine,15.7
+2026-09-21,Night,Line 3,Equipment breakdown,Machine,12.4
+2026-09-21,Night,Line 3,Material shortage,Material,22.5
+2026-09-21,Morning,Line 4,Operator absence,Man,17.0
+2026-09-21,Morning,Line 4,Inspection delay,Measurement,6.2
+2026-09-21,Evening,Line 4,Changeover / setup,Method,14.0
+2026-09-21,Night,Line 4,Calibration,Measurement,22.6
+2026-09-21,Night,Line 4,Equipment breakdown,Machine,35.0
+2026-09-21,Morning,Line 5,Material shortage,Material,3.5
+2026-09-21,Evening,Line 5,Operator error,Man,3.0
+2026-09-21,Evening,Line 5,Material shortage,Material,15.9
+2026-09-21,Evening,Line 5,Material shortage,Material,31.9
+2026-09-21,Night,Line 5,Material shortage,Material,28.0
+2026-09-22,Evening,Line 1,Operator error,Man,8.6
+2026-09-22,Night,Line 1,Inspection delay,Measurement,4.8
+2026-09-22,Morning,Line 2,High temperature,Environment,13.4
+2026-09-22,Evening,Line 2,Changeover / setup,Method,15.4
+2026-09-22,Evening,Line 2,High temperature,Environment,13.4
+2026-09-22,Evening,Line 2,Changeover / setup,Method,34.7
+2026-09-22,Night,Line 2,Material quality issue,Material,21.7
+2026-09-22,Morning,Line 3,Equipment breakdown,Machine,38.8
+2026-09-22,Evening,Line 3,Operator error,Man,10.5
+2026-09-22,Evening,Line 3,Equipment breakdown,Machine,45.2
+2026-09-22,Evening,Line 3,Equipment breakdown,Machine,25.1
+2026-09-22,Evening,Line 3,Changeover / setup,Method,29.7
+2026-09-22,Evening,Line 3,Inspection delay,Measurement,6.9
+2026-09-22,Evening,Line 3,Operator error,Man,14.6
+2026-09-22,Evening,Line 3,Operator error,Man,7.7
+2026-09-22,Night,Line 3,Tool wear,Machine,3.0
+2026-09-22,Morning,Line 4,Operator error,Man,7.1
+2026-09-22,Morning,Line 4,Material quality issue,Material,6.8
+2026-09-22,Evening,Line 4,Calibration,Measurement,4.6
+2026-09-22,Evening,Line 4,Changeover / setup,Method,3.0
+2026-09-22,Night,Line 4,Operator error,Man,9.2
+2026-09-22,Morning,Line 5,Tool wear,Machine,25.9
+2026-09-22,Morning,Line 5,High temperature,Environment,15.9
+2026-09-22,Evening,Line 5,Inspection delay,Measurement,3.0
+2026-09-22,Night,Line 5,Calibration,Measurement,15.7
+2026-09-22,Night,Line 5,Material shortage,Material,10.4
+2026-09-23,Morning,Line 1,Operator error,Man,3.0
+2026-09-23,Evening,Line 1,Calibration,Measurement,3.6
+2026-09-23,Night,Line 2,Power fluctuation,Environment,3.0
+2026-09-23,Night,Line 2,Calibration,Measurement,24.9
+2026-09-23,Night,Line 2,Tool wear,Machine,22.9
+2026-09-23,Night,Line 2,Calibration,Measurement,15.8
+2026-09-23,Night,Line 2,Inspection delay,Measurement,3.0
+2026-09-23,Evening,Line 3,Changeover / setup,Method,39.2
+2026-09-23,Evening,Line 3,Calibration,Measurement,7.3
+2026-09-23,Evening,Line 3,Calibration,Measurement,9.3
+2026-09-23,Night,Line 3,Calibration,Measurement,16.4
+2026-09-23,Evening,Line 4,Inspection delay,Measurement,3.0
+2026-09-23,Night,Line 4,High temperature,Environment,12.0
+2026-09-23,Morning,Line 5,Material quality issue,Material,15.4
+2026-09-23,Evening,Line 5,Operator absence,Man,6.8
+2026-09-23,Night,Line 5,Calibration,Measurement,11.3
+2026-09-23,Night,Line 5,Operator error,Man,3.0
+2026-09-24,Morning,Line 1,Inspection delay,Measurement,7.2
+2026-09-24,Morning,Line 1,Operator absence,Man,18.5
+2026-09-24,Morning,Line 1,Tool wear,Machine,26.4
+2026-09-24,Morning,Line 2,Tool wear,Machine,3.4
+2026-09-24,Night,Line 2,Operator error,Man,8.5
+2026-09-24,Night,Line 2,Changeover / setup,Method,34.4
+2026-09-24,Night,Line 2,Power fluctuation,Environment,12.5
+2026-09-24,Morning,Line 3,Equipment breakdown,Machine,20.1
+2026-09-24,Morning,Line 3,Material quality issue,Material,43.7
+2026-09-24,Evening,Line 3,Equipment breakdown,Machine,9.7
+2026-09-24,Evening,Line 3,Equipment breakdown,Machine,13.2
+2026-09-24,Evening,Line 3,Equipment breakdown,Machine,23.1
+2026-09-24,Night,Line 3,Operator absence,Man,5.5
+2026-09-24,Night,Line 3,Operator error,Man,4.0
+2026-09-24,Night,Line 3,Equipment breakdown,Machine,29.1
+2026-09-24,Night,Line 3,Equipment breakdown,Machine,44.2
+2026-09-24,Morning,Line 4,Tool wear,Machine,22.6
+2026-09-24,Morning,Line 4,Power fluctuation,Environment,9.6
+2026-09-24,Night,Line 4,Operator error,Man,39.0
+2026-09-24,Morning,Line 5,Calibration,Measurement,11.0
+2026-09-24,Morning,Line 5,Tool wear,Machine,19.0
+2026-09-24,Evening,Line 5,Inspection delay,Measurement,25.9
+2026-09-24,Night,Line 5,Operator error,Man,20.0
+2026-09-25,Evening,Line 1,Calibration,Measurement,3.0
+2026-09-25,Evening,Line 1,Material quality issue,Material,14.9
+2026-09-25,Evening,Line 1,Material shortage,Material,19.9
+2026-09-25,Night,Line 1,Calibration,Measurement,18.0
+2026-09-25,Night,Line 1,Tool wear,Machine,30.7
+2026-09-25,Night,Line 1,Power fluctuation,Environment,8.4
+2026-09-25,Night,Line 1,Calibration,Measurement,19.4
+2026-09-25,Evening,Line 2,Operator absence,Man,26.7
+2026-09-25,Night,Line 2,Operator absence,Man,13.6
+2026-09-25,Morning,Line 3,Power fluctuation,Environment,11.5
+2026-09-25,Morning,Line 3,Inspection delay,Measurement,11.6
+2026-09-25,Morning,Line 3,Calibration,Measurement,5.0
+2026-09-25,Morning,Line 3,Tool wear,Machine,3.0
+2026-09-25,Evening,Line 3,Inspection delay,Measurement,7.9
+2026-09-25,Night,Line 3,Operator error,Man,14.2
+2026-09-25,Night,Line 3,Equipment breakdown,Machine,21.5
+2026-09-25,Morning,Line 4,Inspection delay,Measurement,8.7
+2026-09-25,Morning,Line 4,Material quality issue,Material,4.6
+2026-09-25,Morning,Line 4,Tool wear,Machine,12.3
+2026-09-25,Morning,Line 4,Inspection delay,Measurement,13.6
+2026-09-25,Evening,Line 4,Inspection delay,Measurement,15.2
+2026-09-25,Night,Line 4,Inspection delay,Measurement,11.0
+2026-09-25,Night,Line 4,Calibration,Measurement,34.4
+2026-09-25,Evening,Line 5,Inspection delay,Measurement,3.3
+2026-09-25,Night,Line 5,Power fluctuation,Environment,4.4
+2026-09-26,Morning,Line 1,Material shortage,Material,9.8
+2026-09-26,Morning,Line 1,Inspection delay,Measurement,4.3
+2026-09-26,Morning,Line 1,Changeover / setup,Method,11.9
+2026-09-26,Evening,Line 1,Operator error,Man,6.0
+2026-09-26,Night,Line 1,High temperature,Environment,5.6
+2026-09-26,Morning,Line 2,Tool wear,Machine,3.0
+2026-09-26,Night,Line 2,Power fluctuation,Environment,17.2
+2026-09-26,Night,Line 2,Changeover / setup,Method,4.1
+2026-09-26,Morning,Line 3,Equipment breakdown,Machine,16.9
+2026-09-26,Morning,Line 3,Tool wear,Machine,8.0
+2026-09-26,Evening,Line 3,Material quality issue,Material,37.7
+2026-09-26,Night,Line 3,Changeover / setup,Method,19.3
+2026-09-26,Night,Line 3,Operator absence,Man,12.5
+2026-09-26,Night,Line 3,Operator error,Man,17.6
+2026-09-26,Morning,Line 4,Calibration,Measurement,12.1
+2026-09-26,Night,Line 4,High temperature,Environment,13.9
+2026-09-26,Morning,Line 5,Power fluctuation,Environment,52.3
+2026-09-26,Night,Line 5,Material shortage,Material,17.3
+2026-09-27,Morning,Line 1,Calibration,Measurement,24.9
+2026-09-27,Morning,Line 1,Material shortage,Material,14.2
+2026-09-27,Evening,Line 1,Tool wear,Machine,16.0
+2026-09-27,Evening,Line 1,Inspection delay,Measurement,10.3
+2026-09-27,Night,Line 1,Tool wear,Machine,34.4
+2026-09-27,Morning,Line 2,Changeover / setup,Method,8.4
+2026-09-27,Morning,Line 2,Calibration,Measurement,4.6
+2026-09-27,Morning,Line 2,Calibration,Measurement,16.6
+2026-09-27,Evening,Line 2,Power fluctuation,Environment,5.8
+2026-09-27,Night,Line 2,Changeover / setup,Method,5.9
+2026-09-27,Night,Line 2,Changeover / setup,Method,8.7
+2026-09-27,Morning,Line 3,Tool wear,Machine,15.6
+2026-09-27,Morning,Line 3,Power fluctuation,Environment,3.2
+2026-09-27,Morning,Line 3,Material quality issue,Material,15.7
+2026-09-27,Evening,Line 3,Tool wear,Machine,17.0
+2026-09-27,Evening,Line 3,Equipment breakdown,Machine,13.1
+2026-09-27,Evening,Line 3,Calibration,Measurement,22.7
+2026-09-27,Evening,Line 3,Equipment breakdown,Machine,42.9
+2026-09-27,Evening,Line 3,Power fluctuation,Environment,20.0
+2026-09-27,Evening,Line 3,Operator error,Man,4.0
+2026-09-27,Night,Line 3,Power fluctuation,Environment,3.9
+2026-09-27,Night,Line 3,High temperature,Environment,9.1
+2026-09-27,Night,Line 3,Operator absence,Man,10.1
+2026-09-27,Evening,Line 4,Tool wear,Machine,22.8
+2026-09-27,Evening,Line 4,Material quality issue,Material,15.3
+2026-09-27,Night,Line 4,Calibration,Measurement,8.1
+2026-09-27,Night,Line 4,Power fluctuation,Environment,23.0
+2026-09-27,Night,Line 4,Operator absence,Man,7.5
+2026-09-27,Morning,Line 5,Power fluctuation,Environment,43.2
+2026-09-27,Evening,Line 5,Tool wear,Machine,33.9
+2026-09-27,Evening,Line 5,Calibration,Measurement,5.3
+2026-09-27,Night,Line 5,Inspection delay,Measurement,4.3
+2026-09-28,Morning,Line 1,Calibration,Measurement,11.0
+2026-09-28,Night,Line 1,Tool wear,Machine,20.6
+2026-09-28,Morning,Line 2,Power fluctuation,Environment,18.8
+2026-09-28,Evening,Line 2,Changeover / setup,Method,5.8
+2026-09-28,Night,Line 2,Operator absence,Man,6.0
+2026-09-28,Night,Line 2,High temperature,Environment,29.8
+2026-09-28,Evening,Line 3,Tool wear,Machine,19.5
+2026-09-28,Evening,Line 3,Equipment breakdown,Machine,59.1
+2026-09-28,Evening,Line 3,Equipment breakdown,Machine,37.8
+2026-09-28,Evening,Line 3,Changeover / setup,Method,7.1
+2026-09-28,Night,Line 3,Material quality issue,Material,3.0
+2026-09-28,Night,Line 3,Changeover / setup,Method,17.7
+2026-09-28,Morning,Line 4,High temperature,Environment,27.4
+2026-09-28,Morning,Line 4,Calibration,Measurement,6.8
+2026-09-28,Evening,Line 4,Changeover / setup,Method,24.6
+2026-09-28,Evening,Line 4,Equipment breakdown,Machine,12.2
+2026-09-28,Evening,Line 5,Equipment breakdown,Machine,20.2
+2026-09-28,Evening,Line 5,Calibration,Measurement,15.2
+2026-09-28,Night,Line 5,Operator error,Man,3.0
+2026-09-28,Night,Line 5,Material shortage,Material,15.7
